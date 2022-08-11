@@ -1,0 +1,6572 @@
+[
+    {
+       "latitude":50.3604,
+       "longitude":-4.11592,
+       "timeStamp":"2021-06-15 02:45:00",
+       "speed":0,
+       "courseOverGround":185.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.36012,
+       "longitude":-4.11487,
+       "timeStamp":"2021-06-15 03:00:00",
+       "speed":1.2,
+       "courseOverGround":14.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.36167,
+       "longitude":-4.13301,
+       "timeStamp":"2021-06-15 03:15:00",
+       "speed":5.1,
+       "courseOverGround":236.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.34459,
+       "longitude":-4.15898,
+       "timeStamp":"2021-06-15 03:30:00",
+       "speed":5.8,
+       "courseOverGround":240.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.32765,
+       "longitude":-4.18204,
+       "timeStamp":"2021-06-15 03:45:00",
+       "speed":6.2,
+       "courseOverGround":179.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.30687,
+       "longitude":-4.19515,
+       "timeStamp":"2021-06-15 04:00:00",
+       "speed":6.4,
+       "courseOverGround":248.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.29238,
+       "longitude":-4.22948,
+       "timeStamp":"2021-06-15 04:15:00",
+       "speed":6.3,
+       "courseOverGround":245.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.28,
+       "longitude":-4.26351,
+       "timeStamp":"2021-06-15 04:30:00",
+       "speed":5.9,
+       "courseOverGround":248.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.26649,
+       "longitude":-4.29745,
+       "timeStamp":"2021-06-15 04:45:00",
+       "speed":6.2,
+       "courseOverGround":248.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.25276,
+       "longitude":-4.33123,
+       "timeStamp":"2021-06-15 05:00:00",
+       "speed":6.1,
+       "courseOverGround":247.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.2399,
+       "longitude":-4.36586,
+       "timeStamp":"2021-06-15 05:15:00",
+       "speed":6.2,
+       "courseOverGround":249.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.22693,
+       "longitude":-4.40077,
+       "timeStamp":"2021-06-15 05:30:00",
+       "speed":6.2,
+       "courseOverGround":248.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.21312,
+       "longitude":-4.43456,
+       "timeStamp":"2021-06-15 05:45:00",
+       "speed":6.1,
+       "courseOverGround":247.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.1994,
+       "longitude":-4.46759,
+       "timeStamp":"2021-06-15 06:00:00",
+       "speed":6.1,
+       "courseOverGround":248.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.18584,
+       "longitude":-4.5011,
+       "timeStamp":"2021-06-15 06:15:00",
+       "speed":6.1,
+       "courseOverGround":247.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.17214,
+       "longitude":-4.53427,
+       "timeStamp":"2021-06-15 06:30:00",
+       "speed":6,
+       "courseOverGround":247.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.15839,
+       "longitude":-4.56701,
+       "timeStamp":"2021-06-15 06:45:00",
+       "speed":6,
+       "courseOverGround":247.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.14454,
+       "longitude":-4.59971,
+       "timeStamp":"2021-06-15 07:00:00",
+       "speed":6,
+       "courseOverGround":247.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.13099,
+       "longitude":-4.63209,
+       "timeStamp":"2021-06-15 07:15:00",
+       "speed":5.9,
+       "courseOverGround":247.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.11736,
+       "longitude":-4.66445,
+       "timeStamp":"2021-06-15 07:30:00",
+       "speed":6,
+       "courseOverGround":246.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.10344,
+       "longitude":-4.69677,
+       "timeStamp":"2021-06-15 07:45:00",
+       "speed":6,
+       "courseOverGround":246.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.08985,
+       "longitude":-4.72894,
+       "timeStamp":"2021-06-15 08:00:00",
+       "speed":5.9,
+       "courseOverGround":247.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.07616,
+       "longitude":-4.76117,
+       "timeStamp":"2021-06-15 08:15:00",
+       "speed":6,
+       "courseOverGround":246.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.06223,
+       "longitude":-4.79343,
+       "timeStamp":"2021-06-15 08:30:00",
+       "speed":5.9,
+       "courseOverGround":246.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.04917,
+       "longitude":-4.82342,
+       "timeStamp":"2021-06-15 08:45:00",
+       "speed":4.8,
+       "courseOverGround":246.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.04362,
+       "longitude":-4.83626,
+       "timeStamp":"2021-06-15 09:00:00",
+       "speed":2.7,
+       "courseOverGround":263.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.03212,
+       "longitude":-4.86545,
+       "timeStamp":"2021-06-15 09:15:00",
+       "speed":6,
+       "courseOverGround":247.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.01892,
+       "longitude":-4.89774,
+       "timeStamp":"2021-06-15 09:30:00",
+       "speed":5,
+       "courseOverGround":246.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":50.00661,
+       "longitude":-4.92742,
+       "timeStamp":"2021-06-15 09:45:00",
+       "speed":6.1,
+       "courseOverGround":249.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.99332,
+       "longitude":-4.96096,
+       "timeStamp":"2021-06-15 10:00:00",
+       "speed":6.1,
+       "courseOverGround":248,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.97967,
+       "longitude":-4.99418,
+       "timeStamp":"2021-06-15 10:15:00",
+       "speed":6.2,
+       "courseOverGround":247.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.96585,
+       "longitude":-5.028,
+       "timeStamp":"2021-06-15 10:30:00",
+       "speed":6.2,
+       "courseOverGround":248.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.9522,
+       "longitude":-5.06168,
+       "timeStamp":"2021-06-15 10:45:00",
+       "speed":6.1,
+       "courseOverGround":247.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.93895,
+       "longitude":-5.09514,
+       "timeStamp":"2021-06-15 11:00:00",
+       "speed":6,
+       "courseOverGround":249.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.92561,
+       "longitude":-5.12958,
+       "timeStamp":"2021-06-15 11:15:00",
+       "speed":6.3,
+       "courseOverGround":249.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91246,
+       "longitude":-5.1649,
+       "timeStamp":"2021-06-15 11:30:00",
+       "speed":6.3,
+       "courseOverGround":249,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.90014,
+       "longitude":-5.19781,
+       "timeStamp":"2021-06-15 11:45:00",
+       "speed":2.2,
+       "courseOverGround":111.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.89798,
+       "longitude":-5.23019,
+       "timeStamp":"2021-06-15 12:00:00",
+       "speed":6.3,
+       "courseOverGround":265.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.89499,
+       "longitude":-5.27095,
+       "timeStamp":"2021-06-15 12:15:00",
+       "speed":6.4,
+       "courseOverGround":266.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.89325,
+       "longitude":-5.31183,
+       "timeStamp":"2021-06-15 12:30:00",
+       "speed":6.3,
+       "courseOverGround":268.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.8922,
+       "longitude":-5.35264,
+       "timeStamp":"2021-06-15 12:45:00",
+       "speed":6.4,
+       "courseOverGround":268.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.8914,
+       "longitude":-5.39366,
+       "timeStamp":"2021-06-15 13:00:00",
+       "speed":6.3,
+       "courseOverGround":269.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.89066,
+       "longitude":-5.43462,
+       "timeStamp":"2021-06-15 13:15:00",
+       "speed":6.4,
+       "courseOverGround":268.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88987,
+       "longitude":-5.4755,
+       "timeStamp":"2021-06-15 13:30:00",
+       "speed":6.3,
+       "courseOverGround":268.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88913,
+       "longitude":-5.51628,
+       "timeStamp":"2021-06-15 13:45:00",
+       "speed":6.3,
+       "courseOverGround":269.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88875,
+       "longitude":-5.55731,
+       "timeStamp":"2021-06-15 14:00:00",
+       "speed":6.4,
+       "courseOverGround":269.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88851,
+       "longitude":-5.5981,
+       "timeStamp":"2021-06-15 14:15:00",
+       "speed":6.3,
+       "courseOverGround":269.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88834,
+       "longitude":-5.63859,
+       "timeStamp":"2021-06-15 14:30:00",
+       "speed":6.2,
+       "courseOverGround":270.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.8884,
+       "longitude":-5.6788,
+       "timeStamp":"2021-06-15 14:45:00",
+       "speed":6.2,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88828,
+       "longitude":-5.71895,
+       "timeStamp":"2021-06-15 15:00:00",
+       "speed":6.2,
+       "courseOverGround":269.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88832,
+       "longitude":-5.75879,
+       "timeStamp":"2021-06-15 15:15:00",
+       "speed":6.1,
+       "courseOverGround":270.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88857,
+       "longitude":-5.79829,
+       "timeStamp":"2021-06-15 15:30:00",
+       "speed":6.1,
+       "courseOverGround":270.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88912,
+       "longitude":-5.83787,
+       "timeStamp":"2021-06-15 15:45:00",
+       "speed":6.1,
+       "courseOverGround":270.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.88964,
+       "longitude":-5.87786,
+       "timeStamp":"2021-06-15 16:00:00",
+       "speed":6.8,
+       "courseOverGround":270.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.89035,
+       "longitude":-5.92283,
+       "timeStamp":"2021-06-15 16:15:00",
+       "speed":7.2,
+       "courseOverGround":270.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.8911,
+       "longitude":-5.96917,
+       "timeStamp":"2021-06-15 16:30:00",
+       "speed":7.2,
+       "courseOverGround":270.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.89232,
+       "longitude":-6.01511,
+       "timeStamp":"2021-06-15 16:45:00",
+       "speed":7.1,
+       "courseOverGround":271.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.89375,
+       "longitude":-6.06116,
+       "timeStamp":"2021-06-15 17:00:00",
+       "speed":7.2,
+       "courseOverGround":271.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.89576,
+       "longitude":-6.10764,
+       "timeStamp":"2021-06-15 17:15:00",
+       "speed":7.2,
+       "courseOverGround":272.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.89852,
+       "longitude":-6.15395,
+       "timeStamp":"2021-06-15 17:30:00",
+       "speed":7.2,
+       "courseOverGround":273.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.90069,
+       "longitude":-6.19978,
+       "timeStamp":"2021-06-15 17:45:00",
+       "speed":7,
+       "courseOverGround":271.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.90155,
+       "longitude":-6.24416,
+       "timeStamp":"2021-06-15 18:00:00",
+       "speed":6.8,
+       "courseOverGround":271,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.9014,
+       "longitude":-6.28695,
+       "timeStamp":"2021-06-15 18:15:00",
+       "speed":5.9,
+       "courseOverGround":272,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.90685,
+       "longitude":-6.32263,
+       "timeStamp":"2021-06-15 18:30:00",
+       "speed":5.6,
+       "courseOverGround":288.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91952,
+       "longitude":-6.31661,
+       "timeStamp":"2021-06-15 18:45:00",
+       "speed":1.5,
+       "courseOverGround":103.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91892,
+       "longitude":-6.31383,
+       "timeStamp":"2021-06-15 19:00:00",
+       "speed":0,
+       "courseOverGround":30.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91891,
+       "longitude":-6.31379,
+       "timeStamp":"2021-06-15 19:15:00",
+       "speed":0,
+       "courseOverGround":90,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91891,
+       "longitude":-6.31382,
+       "timeStamp":"2021-06-15 19:30:00",
+       "speed":0,
+       "courseOverGround":99.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.9189,
+       "longitude":-6.31383,
+       "timeStamp":"2021-06-15 19:45:00",
+       "speed":0,
+       "courseOverGround":118.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91888,
+       "longitude":-6.31378,
+       "timeStamp":"2021-06-15 20:00:00",
+       "speed":0,
+       "courseOverGround":90,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91887,
+       "longitude":-6.31377,
+       "timeStamp":"2021-06-15 20:15:00",
+       "speed":0,
+       "courseOverGround":129.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91885,
+       "longitude":-6.31373,
+       "timeStamp":"2021-06-15 20:30:00",
+       "speed":0,
+       "courseOverGround":117.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91884,
+       "longitude":-6.31372,
+       "timeStamp":"2021-06-15 20:45:00",
+       "speed":0,
+       "courseOverGround":90,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91884,
+       "longitude":-6.31368,
+       "timeStamp":"2021-06-15 21:00:00",
+       "speed":0,
+       "courseOverGround":281.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91885,
+       "longitude":-6.31371,
+       "timeStamp":"2021-06-15 21:15:00",
+       "speed":0,
+       "courseOverGround":90,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91882,
+       "longitude":-6.3137,
+       "timeStamp":"2021-06-15 21:30:00",
+       "speed":0,
+       "courseOverGround":189.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91885,
+       "longitude":-6.3137,
+       "timeStamp":"2021-06-15 21:45:00",
+       "speed":0,
+       "courseOverGround":4.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91879,
+       "longitude":-6.31371,
+       "timeStamp":"2021-06-15 22:00:00",
+       "speed":0,
+       "courseOverGround":57.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91882,
+       "longitude":-6.31371,
+       "timeStamp":"2021-06-15 22:15:00",
+       "speed":0,
+       "courseOverGround":308.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91889,
+       "longitude":-6.31379,
+       "timeStamp":"2021-06-15 22:30:00",
+       "speed":0,
+       "courseOverGround":306.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91891,
+       "longitude":-6.31385,
+       "timeStamp":"2021-06-15 22:45:00",
+       "speed":0,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.9189,
+       "longitude":-6.31386,
+       "timeStamp":"2021-06-15 23:00:00",
+       "speed":0,
+       "courseOverGround":341.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91892,
+       "longitude":-6.31387,
+       "timeStamp":"2021-06-15 23:15:00",
+       "speed":0,
+       "courseOverGround":247.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91892,
+       "longitude":-6.31389,
+       "timeStamp":"2021-06-15 23:30:00",
+       "speed":0,
+       "courseOverGround":333.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91897,
+       "longitude":-6.31386,
+       "timeStamp":"2021-06-15 23:45:00",
+       "speed":0,
+       "courseOverGround":43.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91891,
+       "longitude":-6.31387,
+       "timeStamp":"2021-06-16 00:00:00",
+       "speed":0,
+       "courseOverGround":35,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91892,
+       "longitude":-6.31387,
+       "timeStamp":"2021-06-16 00:15:00",
+       "speed":0,
+       "courseOverGround":290.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91892,
+       "longitude":-6.31387,
+       "timeStamp":"2021-06-16 00:30:00",
+       "speed":0,
+       "courseOverGround":138,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91893,
+       "longitude":-6.31386,
+       "timeStamp":"2021-06-16 00:45:00",
+       "speed":0,
+       "courseOverGround":26.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91893,
+       "longitude":-6.31388,
+       "timeStamp":"2021-06-16 01:00:00",
+       "speed":0,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91893,
+       "longitude":-6.31387,
+       "timeStamp":"2021-06-16 01:15:00",
+       "speed":0,
+       "courseOverGround":79.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91895,
+       "longitude":-6.31381,
+       "timeStamp":"2021-06-16 01:30:00",
+       "speed":0,
+       "courseOverGround":78.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91891,
+       "longitude":-6.31378,
+       "timeStamp":"2021-06-16 01:45:00",
+       "speed":0,
+       "courseOverGround":154.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91889,
+       "longitude":-6.31372,
+       "timeStamp":"2021-06-16 02:00:00",
+       "speed":0,
+       "courseOverGround":282.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.9189,
+       "longitude":-6.31376,
+       "timeStamp":"2021-06-16 02:15:00",
+       "speed":0,
+       "courseOverGround":325,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91891,
+       "longitude":-6.31374,
+       "timeStamp":"2021-06-16 02:30:00",
+       "speed":0,
+       "courseOverGround":90,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91891,
+       "longitude":-6.31373,
+       "timeStamp":"2021-06-16 02:45:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91893,
+       "longitude":-6.31378,
+       "timeStamp":"2021-06-16 03:00:00",
+       "speed":0,
+       "courseOverGround":291.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91894,
+       "longitude":-6.3138,
+       "timeStamp":"2021-06-16 03:15:00",
+       "speed":0,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91893,
+       "longitude":-6.31378,
+       "timeStamp":"2021-06-16 03:30:00",
+       "speed":0,
+       "courseOverGround":110,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91891,
+       "longitude":-6.31373,
+       "timeStamp":"2021-06-16 03:45:00",
+       "speed":0,
+       "courseOverGround":116,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91891,
+       "longitude":-6.31373,
+       "timeStamp":"2021-06-16 04:00:00",
+       "speed":0,
+       "courseOverGround":295.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91893,
+       "longitude":-6.31375,
+       "timeStamp":"2021-06-16 04:15:00",
+       "speed":0,
+       "courseOverGround":117.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91888,
+       "longitude":-6.31369,
+       "timeStamp":"2021-06-16 04:30:00",
+       "speed":0,
+       "courseOverGround":133.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91885,
+       "longitude":-6.31368,
+       "timeStamp":"2021-06-16 04:45:00",
+       "speed":0,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91889,
+       "longitude":-6.31368,
+       "timeStamp":"2021-06-16 05:00:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91885,
+       "longitude":-6.31368,
+       "timeStamp":"2021-06-16 05:15:00",
+       "speed":0,
+       "courseOverGround":153.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91885,
+       "longitude":-6.3137,
+       "timeStamp":"2021-06-16 05:30:00",
+       "speed":0,
+       "courseOverGround":302,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91886,
+       "longitude":-6.31371,
+       "timeStamp":"2021-06-16 05:45:00",
+       "speed":0,
+       "courseOverGround":120.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91883,
+       "longitude":-6.31369,
+       "timeStamp":"2021-06-16 06:00:00",
+       "speed":0,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91882,
+       "longitude":-6.31368,
+       "timeStamp":"2021-06-16 06:15:00",
+       "speed":0,
+       "courseOverGround":132.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91884,
+       "longitude":-6.31367,
+       "timeStamp":"2021-06-16 06:30:00",
+       "speed":0,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91883,
+       "longitude":-6.31367,
+       "timeStamp":"2021-06-16 06:45:00",
+       "speed":0,
+       "courseOverGround":166,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91886,
+       "longitude":-6.3137,
+       "timeStamp":"2021-06-16 07:00:00",
+       "speed":0,
+       "courseOverGround":301.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91886,
+       "longitude":-6.31368,
+       "timeStamp":"2021-06-16 07:15:00",
+       "speed":0,
+       "courseOverGround":330.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91888,
+       "longitude":-6.31371,
+       "timeStamp":"2021-06-16 07:30:00",
+       "speed":0,
+       "courseOverGround":256.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91889,
+       "longitude":-6.31374,
+       "timeStamp":"2021-06-16 07:45:00",
+       "speed":0,
+       "courseOverGround":355.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.9189,
+       "longitude":-6.31373,
+       "timeStamp":"2021-06-16 08:00:00",
+       "speed":0,
+       "courseOverGround":147,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91887,
+       "longitude":-6.31368,
+       "timeStamp":"2021-06-16 08:15:00",
+       "speed":0,
+       "courseOverGround":114,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91884,
+       "longitude":-6.31369,
+       "timeStamp":"2021-06-16 08:30:00",
+       "speed":0,
+       "courseOverGround":107.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91883,
+       "longitude":-6.31367,
+       "timeStamp":"2021-06-16 08:45:00",
+       "speed":0,
+       "courseOverGround":295.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91887,
+       "longitude":-6.31372,
+       "timeStamp":"2021-06-16 09:00:00",
+       "speed":0,
+       "courseOverGround":312.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91885,
+       "longitude":-6.31374,
+       "timeStamp":"2021-06-16 09:15:00",
+       "speed":0,
+       "courseOverGround":206.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91887,
+       "longitude":-6.31371,
+       "timeStamp":"2021-06-16 09:30:00",
+       "speed":0,
+       "courseOverGround":159.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91885,
+       "longitude":-6.31369,
+       "timeStamp":"2021-06-16 09:45:00",
+       "speed":0,
+       "courseOverGround":90,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91871,
+       "longitude":-6.31428,
+       "timeStamp":"2021-06-16 10:00:00",
+       "speed":0.2,
+       "courseOverGround":257,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.91393,
+       "longitude":-6.33014,
+       "timeStamp":"2021-06-16 10:15:00",
+       "speed":6.2,
+       "courseOverGround":207.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.8948,
+       "longitude":-6.31424,
+       "timeStamp":"2021-06-16 10:30:00",
+       "speed":4.6,
+       "courseOverGround":159.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.87635,
+       "longitude":-6.34042,
+       "timeStamp":"2021-06-16 10:45:00",
+       "speed":5.9,
+       "courseOverGround":249.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.86311,
+       "longitude":-6.37355,
+       "timeStamp":"2021-06-16 11:00:00",
+       "speed":6.4,
+       "courseOverGround":246.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.85138,
+       "longitude":-6.40594,
+       "timeStamp":"2021-06-16 11:15:00",
+       "speed":5.5,
+       "courseOverGround":257.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84571,
+       "longitude":-6.43988,
+       "timeStamp":"2021-06-16 11:30:00",
+       "speed":5.7,
+       "courseOverGround":266.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84419,
+       "longitude":-6.4645,
+       "timeStamp":"2021-06-16 11:45:00",
+       "speed":0.7,
+       "courseOverGround":103,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84331,
+       "longitude":-6.46117,
+       "timeStamp":"2021-06-16 12:00:00",
+       "speed":0.5,
+       "courseOverGround":105.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84258,
+       "longitude":-6.45836,
+       "timeStamp":"2021-06-16 12:15:00",
+       "speed":0.4,
+       "courseOverGround":102.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84195,
+       "longitude":-6.45626,
+       "timeStamp":"2021-06-16 12:30:00",
+       "speed":0.4,
+       "courseOverGround":110.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84107,
+       "longitude":-6.45384,
+       "timeStamp":"2021-06-16 12:45:00",
+       "speed":0.6,
+       "courseOverGround":127.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84666,
+       "longitude":-6.44899,
+       "timeStamp":"2021-06-16 13:00:00",
+       "speed":6.1,
+       "courseOverGround":264.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84282,
+       "longitude":-6.48814,
+       "timeStamp":"2021-06-16 13:15:00",
+       "speed":6.1,
+       "courseOverGround":264.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.83972,
+       "longitude":-6.52728,
+       "timeStamp":"2021-06-16 13:30:00",
+       "speed":6.1,
+       "courseOverGround":266.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.83758,
+       "longitude":-6.56675,
+       "timeStamp":"2021-06-16 13:45:00",
+       "speed":6.2,
+       "courseOverGround":267.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.83582,
+       "longitude":-6.60674,
+       "timeStamp":"2021-06-16 14:00:00",
+       "speed":6.2,
+       "courseOverGround":268.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.8347,
+       "longitude":-6.64371,
+       "timeStamp":"2021-06-16 14:15:00",
+       "speed":5.1,
+       "courseOverGround":268.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.83356,
+       "longitude":-6.66974,
+       "timeStamp":"2021-06-16 14:30:00",
+       "speed":6.2,
+       "courseOverGround":274.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.83712,
+       "longitude":-6.70918,
+       "timeStamp":"2021-06-16 14:45:00",
+       "speed":6.2,
+       "courseOverGround":277.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84372,
+       "longitude":-6.74719,
+       "timeStamp":"2021-06-16 15:00:00",
+       "speed":6.1,
+       "courseOverGround":282.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.84502,
+       "longitude":-6.78626,
+       "timeStamp":"2021-06-16 15:15:00",
+       "speed":6.1,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.83057,
+       "longitude":-6.80393,
+       "timeStamp":"2021-06-16 15:30:00",
+       "speed":5.1,
+       "courseOverGround":203.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.81019,
+       "longitude":-6.81271,
+       "timeStamp":"2021-06-16 15:45:00",
+       "speed":5.1,
+       "courseOverGround":203.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.78982,
+       "longitude":-6.82149,
+       "timeStamp":"2021-06-16 16:00:00",
+       "speed":5.1,
+       "courseOverGround":203.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.76667,
+       "longitude":-6.82667,
+       "timeStamp":"2021-06-16 16:15:00",
+       "speed":6,
+       "courseOverGround":186.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.74174,
+       "longitude":-6.82859,
+       "timeStamp":"2021-06-16 16:30:00",
+       "speed":6,
+       "courseOverGround":181.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.71692,
+       "longitude":-6.82922,
+       "timeStamp":"2021-06-16 16:45:00",
+       "speed":6,
+       "courseOverGround":181.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.6921,
+       "longitude":-6.82986,
+       "timeStamp":"2021-06-16 17:00:00",
+       "speed":6,
+       "courseOverGround":181.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.66844,
+       "longitude":-6.83608,
+       "timeStamp":"2021-06-16 17:15:00",
+       "speed":5.7,
+       "courseOverGround":198.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.6451,
+       "longitude":-6.84385,
+       "timeStamp":"2021-06-16 17:30:00",
+       "speed":5.7,
+       "courseOverGround":198.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.62177,
+       "longitude":-6.85163,
+       "timeStamp":"2021-06-16 17:45:00",
+       "speed":5.7,
+       "courseOverGround":198.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.60094,
+       "longitude":-6.86797,
+       "timeStamp":"2021-06-16 18:00:00",
+       "speed":5.6,
+       "courseOverGround":223,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.58081,
+       "longitude":-6.88671,
+       "timeStamp":"2021-06-16 18:15:00",
+       "speed":5.6,
+       "courseOverGround":223,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.56007,
+       "longitude":-6.90596,
+       "timeStamp":"2021-06-16 18:30:00",
+       "speed":6.1,
+       "courseOverGround":222.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.53946,
+       "longitude":-6.9251,
+       "timeStamp":"2021-06-16 18:45:00",
+       "speed":5.9,
+       "courseOverGround":221.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.51812,
+       "longitude":-6.94407,
+       "timeStamp":"2021-06-16 19:00:00",
+       "speed":5.9,
+       "courseOverGround":221.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.49662,
+       "longitude":-6.96295,
+       "timeStamp":"2021-06-16 19:15:00",
+       "speed":5.9,
+       "courseOverGround":216.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.47612,
+       "longitude":-6.98092,
+       "timeStamp":"2021-06-16 19:30:00",
+       "speed":5.6,
+       "courseOverGround":222.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.45546,
+       "longitude":-6.99927,
+       "timeStamp":"2021-06-16 19:45:00",
+       "speed":5.8,
+       "courseOverGround":221.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.43461,
+       "longitude":-7.01761,
+       "timeStamp":"2021-06-16 20:00:00",
+       "speed":5.8,
+       "courseOverGround":221.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.41214,
+       "longitude":-7.03469,
+       "timeStamp":"2021-06-16 20:15:00",
+       "speed":6.5,
+       "courseOverGround":213.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.39041,
+       "longitude":-7.05299,
+       "timeStamp":"2021-06-16 20:30:00",
+       "speed":5.9,
+       "courseOverGround":220.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.36912,
+       "longitude":-7.07096,
+       "timeStamp":"2021-06-16 20:45:00",
+       "speed":6.1,
+       "courseOverGround":219.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34666,
+       "longitude":-7.08927,
+       "timeStamp":"2021-06-16 21:00:00",
+       "speed":6.1,
+       "courseOverGround":219.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.32851,
+       "longitude":-7.11311,
+       "timeStamp":"2021-06-16 21:15:00",
+       "speed":6,
+       "courseOverGround":257,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.3202,
+       "longitude":-7.14912,
+       "timeStamp":"2021-06-16 21:30:00",
+       "speed":6,
+       "courseOverGround":257,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.31185,
+       "longitude":-7.18397,
+       "timeStamp":"2021-06-16 21:45:00",
+       "speed":5.8,
+       "courseOverGround":256.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.30323,
+       "longitude":-7.21987,
+       "timeStamp":"2021-06-16 22:00:00",
+       "speed":6,
+       "courseOverGround":256.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.29454,
+       "longitude":-7.25609,
+       "timeStamp":"2021-06-16 22:15:00",
+       "speed":6,
+       "courseOverGround":256.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.28585,
+       "longitude":-7.2923,
+       "timeStamp":"2021-06-16 22:30:00",
+       "speed":6,
+       "courseOverGround":256.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.27716,
+       "longitude":-7.32852,
+       "timeStamp":"2021-06-16 22:45:00",
+       "speed":6,
+       "courseOverGround":256.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.26832,
+       "longitude":-7.36485,
+       "timeStamp":"2021-06-16 23:00:00",
+       "speed":6.2,
+       "courseOverGround":255.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.25882,
+       "longitude":-7.40171,
+       "timeStamp":"2021-06-16 23:15:00",
+       "speed":6.2,
+       "courseOverGround":255.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.24894,
+       "longitude":-7.43607,
+       "timeStamp":"2021-06-16 23:30:00",
+       "speed":5.9,
+       "courseOverGround":253.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.23903,
+       "longitude":-7.47028,
+       "timeStamp":"2021-06-16 23:45:00",
+       "speed":5.9,
+       "courseOverGround":253.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.22896,
+       "longitude":-7.50418,
+       "timeStamp":"2021-06-17 00:00:00",
+       "speed":5.8,
+       "courseOverGround":253,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.21885,
+       "longitude":-7.54148,
+       "timeStamp":"2021-06-17 00:15:00",
+       "speed":6.2,
+       "courseOverGround":252.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.20752,
+       "longitude":-7.57709,
+       "timeStamp":"2021-06-17 00:30:00",
+       "speed":6.2,
+       "courseOverGround":252.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.19747,
+       "longitude":-7.61417,
+       "timeStamp":"2021-06-17 00:45:00",
+       "speed":6.3,
+       "courseOverGround":255.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.18801,
+       "longitude":-7.65167,
+       "timeStamp":"2021-06-17 01:00:00",
+       "speed":6.3,
+       "courseOverGround":256.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.17886,
+       "longitude":-7.68917,
+       "timeStamp":"2021-06-17 01:15:00",
+       "speed":6.3,
+       "courseOverGround":256.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.17019,
+       "longitude":-7.72582,
+       "timeStamp":"2021-06-17 01:30:00",
+       "speed":6,
+       "courseOverGround":257,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.16187,
+       "longitude":-7.76471,
+       "timeStamp":"2021-06-17 01:45:00",
+       "speed":6.5,
+       "courseOverGround":258,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.15353,
+       "longitude":-7.80388,
+       "timeStamp":"2021-06-17 02:00:00",
+       "speed":6.5,
+       "courseOverGround":258,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.14519,
+       "longitude":-7.84246,
+       "timeStamp":"2021-06-17 02:15:00",
+       "speed":6.2,
+       "courseOverGround":257.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.13726,
+       "longitude":-7.87999,
+       "timeStamp":"2021-06-17 02:30:00",
+       "speed":6.2,
+       "courseOverGround":258.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12962,
+       "longitude":-7.91747,
+       "timeStamp":"2021-06-17 02:45:00",
+       "speed":6.2,
+       "courseOverGround":258.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.1221,
+       "longitude":-7.9552,
+       "timeStamp":"2021-06-17 03:00:00",
+       "speed":6.3,
+       "courseOverGround":259.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.11516,
+       "longitude":-7.99409,
+       "timeStamp":"2021-06-17 03:15:00",
+       "speed":6.3,
+       "courseOverGround":259.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.10787,
+       "longitude":-8.03063,
+       "timeStamp":"2021-06-17 03:30:00",
+       "speed":6,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.10018,
+       "longitude":-8.06696,
+       "timeStamp":"2021-06-17 03:45:00",
+       "speed":6,
+       "courseOverGround":257,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.09306,
+       "longitude":-8.10295,
+       "timeStamp":"2021-06-17 04:00:00",
+       "speed":5.6,
+       "courseOverGround":267.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.09155,
+       "longitude":-8.13852,
+       "timeStamp":"2021-06-17 04:15:00",
+       "speed":5.6,
+       "courseOverGround":267.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.09004,
+       "longitude":-8.17409,
+       "timeStamp":"2021-06-17 04:30:00",
+       "speed":5.6,
+       "courseOverGround":267.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.08316,
+       "longitude":-8.21144,
+       "timeStamp":"2021-06-17 04:45:00",
+       "speed":6.2,
+       "courseOverGround":260.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.0778,
+       "longitude":-8.24835,
+       "timeStamp":"2021-06-17 05:00:00",
+       "speed":5.9,
+       "courseOverGround":262.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.07308,
+       "longitude":-8.28486,
+       "timeStamp":"2021-06-17 05:15:00",
+       "speed":6.1,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.06761,
+       "longitude":-8.32257,
+       "timeStamp":"2021-06-17 05:30:00",
+       "speed":5.8,
+       "courseOverGround":263.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.06343,
+       "longitude":-8.35911,
+       "timeStamp":"2021-06-17 05:45:00",
+       "speed":5.8,
+       "courseOverGround":263.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.05846,
+       "longitude":-8.39652,
+       "timeStamp":"2021-06-17 06:00:00",
+       "speed":6,
+       "courseOverGround":262.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.05347,
+       "longitude":-8.43396,
+       "timeStamp":"2021-06-17 06:15:00",
+       "speed":6,
+       "courseOverGround":262.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.04929,
+       "longitude":-8.47143,
+       "timeStamp":"2021-06-17 06:30:00",
+       "speed":6,
+       "courseOverGround":263.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.0446,
+       "longitude":-8.50847,
+       "timeStamp":"2021-06-17 06:45:00",
+       "speed":5.8,
+       "courseOverGround":261.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.03892,
+       "longitude":-8.54481,
+       "timeStamp":"2021-06-17 07:00:00",
+       "speed":6.1,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.03298,
+       "longitude":-8.58173,
+       "timeStamp":"2021-06-17 07:15:00",
+       "speed":5.8,
+       "courseOverGround":261.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.02759,
+       "longitude":-8.61752,
+       "timeStamp":"2021-06-17 07:30:00",
+       "speed":5.8,
+       "courseOverGround":261.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.0222,
+       "longitude":-8.6533,
+       "timeStamp":"2021-06-17 07:45:00",
+       "speed":5.8,
+       "courseOverGround":261.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.01681,
+       "longitude":-8.68909,
+       "timeStamp":"2021-06-17 08:00:00",
+       "speed":5.8,
+       "courseOverGround":261.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.01058,
+       "longitude":-8.72382,
+       "timeStamp":"2021-06-17 08:15:00",
+       "speed":5.7,
+       "courseOverGround":259.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.00434,
+       "longitude":-8.75853,
+       "timeStamp":"2021-06-17 08:30:00",
+       "speed":5.7,
+       "courseOverGround":259.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.99776,
+       "longitude":-8.79375,
+       "timeStamp":"2021-06-17 08:45:00",
+       "speed":5.8,
+       "courseOverGround":259.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.99094,
+       "longitude":-8.82935,
+       "timeStamp":"2021-06-17 09:00:00",
+       "speed":5.8,
+       "courseOverGround":259.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.9835,
+       "longitude":-8.86481,
+       "timeStamp":"2021-06-17 09:15:00",
+       "speed":5.9,
+       "courseOverGround":256.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.975,
+       "longitude":-8.9,
+       "timeStamp":"2021-06-17 09:30:00",
+       "speed":5.8,
+       "courseOverGround":257,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.96653,
+       "longitude":-8.93447,
+       "timeStamp":"2021-06-17 09:45:00",
+       "speed":5.9,
+       "courseOverGround":254.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.95724,
+       "longitude":-8.96877,
+       "timeStamp":"2021-06-17 10:00:00",
+       "speed":5.9,
+       "courseOverGround":254.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.94794,
+       "longitude":-9.00306,
+       "timeStamp":"2021-06-17 10:15:00",
+       "speed":5.9,
+       "courseOverGround":254.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.93865,
+       "longitude":-9.03735,
+       "timeStamp":"2021-06-17 10:30:00",
+       "speed":5.9,
+       "courseOverGround":254.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.92935,
+       "longitude":-9.07165,
+       "timeStamp":"2021-06-17 10:45:00",
+       "speed":5.9,
+       "courseOverGround":254.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.91999,
+       "longitude":-9.10599,
+       "timeStamp":"2021-06-17 11:00:00",
+       "speed":5.9,
+       "courseOverGround":254.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.91031,
+       "longitude":-9.14055,
+       "timeStamp":"2021-06-17 11:15:00",
+       "speed":5.9,
+       "courseOverGround":254.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.90058,
+       "longitude":-9.17532,
+       "timeStamp":"2021-06-17 11:30:00",
+       "speed":6,
+       "courseOverGround":254.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.89084,
+       "longitude":-9.21009,
+       "timeStamp":"2021-06-17 11:45:00",
+       "speed":6,
+       "courseOverGround":254.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.88144,
+       "longitude":-9.24546,
+       "timeStamp":"2021-06-17 12:00:00",
+       "speed":6.1,
+       "courseOverGround":255.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.87227,
+       "longitude":-9.28128,
+       "timeStamp":"2021-06-17 12:15:00",
+       "speed":6.1,
+       "courseOverGround":255.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.86311,
+       "longitude":-9.31711,
+       "timeStamp":"2021-06-17 12:30:00",
+       "speed":6.1,
+       "courseOverGround":255.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.85394,
+       "longitude":-9.35293,
+       "timeStamp":"2021-06-17 12:45:00",
+       "speed":6.1,
+       "courseOverGround":255.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.84446,
+       "longitude":-9.38892,
+       "timeStamp":"2021-06-17 13:00:00",
+       "speed":6.2,
+       "courseOverGround":254.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.83474,
+       "longitude":-9.42503,
+       "timeStamp":"2021-06-17 13:15:00",
+       "speed":6.2,
+       "courseOverGround":254.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.82503,
+       "longitude":-9.46134,
+       "timeStamp":"2021-06-17 13:30:00",
+       "speed":6.3,
+       "courseOverGround":255.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.81535,
+       "longitude":-9.49863,
+       "timeStamp":"2021-06-17 13:45:00",
+       "speed":6.3,
+       "courseOverGround":255.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.80526,
+       "longitude":-9.53468,
+       "timeStamp":"2021-06-17 14:00:00",
+       "speed":6.3,
+       "courseOverGround":257.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.79608,
+       "longitude":-9.57149,
+       "timeStamp":"2021-06-17 14:15:00",
+       "speed":6.2,
+       "courseOverGround":253.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.78549,
+       "longitude":-9.60704,
+       "timeStamp":"2021-06-17 14:30:00",
+       "speed":6.2,
+       "courseOverGround":253.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.77528,
+       "longitude":-9.6427,
+       "timeStamp":"2021-06-17 14:45:00",
+       "speed":6.1,
+       "courseOverGround":257,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.76693,
+       "longitude":-9.67887,
+       "timeStamp":"2021-06-17 15:00:00",
+       "speed":6.1,
+       "courseOverGround":257,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.75726,
+       "longitude":-9.71627,
+       "timeStamp":"2021-06-17 15:15:00",
+       "speed":6.4,
+       "courseOverGround":255.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.7486,
+       "longitude":-9.75379,
+       "timeStamp":"2021-06-17 15:30:00",
+       "speed":6.3,
+       "courseOverGround":257.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.74045,
+       "longitude":-9.7903,
+       "timeStamp":"2021-06-17 15:45:00",
+       "speed":6.2,
+       "courseOverGround":258.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.73253,
+       "longitude":-9.82783,
+       "timeStamp":"2021-06-17 16:00:00",
+       "speed":6.2,
+       "courseOverGround":258.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.72461,
+       "longitude":-9.86537,
+       "timeStamp":"2021-06-17 16:15:00",
+       "speed":6.2,
+       "courseOverGround":258.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.71669,
+       "longitude":-9.9029,
+       "timeStamp":"2021-06-17 16:30:00",
+       "speed":6.2,
+       "courseOverGround":258.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.70824,
+       "longitude":-9.94002,
+       "timeStamp":"2021-06-17 16:45:00",
+       "speed":6.2,
+       "courseOverGround":255.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.69887,
+       "longitude":-9.97644,
+       "timeStamp":"2021-06-17 17:00:00",
+       "speed":6.2,
+       "courseOverGround":255.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.68951,
+       "longitude":-10.01286,
+       "timeStamp":"2021-06-17 17:15:00",
+       "speed":6.2,
+       "courseOverGround":255.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.6803,
+       "longitude":-10.04949,
+       "timeStamp":"2021-06-17 17:30:00",
+       "speed":6.3,
+       "courseOverGround":257.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.67232,
+       "longitude":-10.0871,
+       "timeStamp":"2021-06-17 17:45:00",
+       "speed":6.2,
+       "courseOverGround":259,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.66504,
+       "longitude":-10.12455,
+       "timeStamp":"2021-06-17 18:00:00",
+       "speed":6.2,
+       "courseOverGround":259,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.65696,
+       "longitude":-10.16087,
+       "timeStamp":"2021-06-17 18:15:00",
+       "speed":6,
+       "courseOverGround":256.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.64863,
+       "longitude":-10.19659,
+       "timeStamp":"2021-06-17 18:30:00",
+       "speed":6,
+       "courseOverGround":256.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.64206,
+       "longitude":-10.23242,
+       "timeStamp":"2021-06-17 18:45:00",
+       "speed":6.5,
+       "courseOverGround":257.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.63362,
+       "longitude":-10.26974,
+       "timeStamp":"2021-06-17 19:00:00",
+       "speed":6.2,
+       "courseOverGround":257.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.62679,
+       "longitude":-10.30621,
+       "timeStamp":"2021-06-17 19:15:00",
+       "speed":6,
+       "courseOverGround":260.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.62042,
+       "longitude":-10.34258,
+       "timeStamp":"2021-06-17 19:30:00",
+       "speed":6,
+       "courseOverGround":260.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.61366,
+       "longitude":-10.37893,
+       "timeStamp":"2021-06-17 19:45:00",
+       "speed":6,
+       "courseOverGround":259.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.60687,
+       "longitude":-10.41528,
+       "timeStamp":"2021-06-17 20:00:00",
+       "speed":6,
+       "courseOverGround":259.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.60008,
+       "longitude":-10.45163,
+       "timeStamp":"2021-06-17 20:15:00",
+       "speed":6,
+       "courseOverGround":259.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.59329,
+       "longitude":-10.48799,
+       "timeStamp":"2021-06-17 20:30:00",
+       "speed":6,
+       "courseOverGround":259.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.58673,
+       "longitude":-10.5053,
+       "timeStamp":"2021-06-17 20:45:00",
+       "speed":2.4,
+       "courseOverGround":240.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.58333,
+       "longitude":-10.52399,
+       "timeStamp":"2021-06-17 21:00:00",
+       "speed":3.8,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.57594,
+       "longitude":-10.55764,
+       "timeStamp":"2021-06-17 21:15:00",
+       "speed":5.7,
+       "courseOverGround":257.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.56822,
+       "longitude":-10.59171,
+       "timeStamp":"2021-06-17 21:30:00",
+       "speed":5.7,
+       "courseOverGround":257.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.56072,
+       "longitude":-10.62638,
+       "timeStamp":"2021-06-17 21:45:00",
+       "speed":5.9,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.55358,
+       "longitude":-10.66206,
+       "timeStamp":"2021-06-17 22:00:00",
+       "speed":5.9,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.54552,
+       "longitude":-10.6967,
+       "timeStamp":"2021-06-17 22:15:00",
+       "speed":6.3,
+       "courseOverGround":257.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.53732,
+       "longitude":-10.73405,
+       "timeStamp":"2021-06-17 22:30:00",
+       "speed":5.8,
+       "courseOverGround":260,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.53093,
+       "longitude":-10.76989,
+       "timeStamp":"2021-06-17 22:45:00",
+       "speed":6.1,
+       "courseOverGround":259.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.52364,
+       "longitude":-10.80544,
+       "timeStamp":"2021-06-17 23:00:00",
+       "speed":5.7,
+       "courseOverGround":256,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.51531,
+       "longitude":-10.83878,
+       "timeStamp":"2021-06-17 23:15:00",
+       "speed":5.7,
+       "courseOverGround":256,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.50865,
+       "longitude":-10.85943,
+       "timeStamp":"2021-06-17 23:30:00",
+       "speed":6.3,
+       "courseOverGround":257.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.5003,
+       "longitude":-10.897,
+       "timeStamp":"2021-06-17 23:45:00",
+       "speed":6.3,
+       "courseOverGround":257.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.49244,
+       "longitude":-10.93403,
+       "timeStamp":"2021-06-18 00:00:00",
+       "speed":6.1,
+       "courseOverGround":258.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.48495,
+       "longitude":-10.97064,
+       "timeStamp":"2021-06-18 00:15:00",
+       "speed":6.1,
+       "courseOverGround":258.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.47699,
+       "longitude":-11.00655,
+       "timeStamp":"2021-06-18 00:30:00",
+       "speed":6,
+       "courseOverGround":256.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.46991,
+       "longitude":-11.04297,
+       "timeStamp":"2021-06-18 00:45:00",
+       "speed":6.1,
+       "courseOverGround":259.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.46282,
+       "longitude":-11.07905,
+       "timeStamp":"2021-06-18 01:00:00",
+       "speed":5.6,
+       "courseOverGround":260,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.45704,
+       "longitude":-11.115,
+       "timeStamp":"2021-06-18 01:15:00",
+       "speed":6.1,
+       "courseOverGround":261.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.45117,
+       "longitude":-11.15295,
+       "timeStamp":"2021-06-18 01:30:00",
+       "speed":6.4,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.44459,
+       "longitude":-11.19153,
+       "timeStamp":"2021-06-18 01:45:00",
+       "speed":6.3,
+       "courseOverGround":260.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.43874,
+       "longitude":-11.22884,
+       "timeStamp":"2021-06-18 02:00:00",
+       "speed":5.9,
+       "courseOverGround":261.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.43352,
+       "longitude":-11.26533,
+       "timeStamp":"2021-06-18 02:15:00",
+       "speed":5.9,
+       "courseOverGround":261.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.42624,
+       "longitude":-11.30305,
+       "timeStamp":"2021-06-18 02:30:00",
+       "speed":6.1,
+       "courseOverGround":259,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.41926,
+       "longitude":-11.33932,
+       "timeStamp":"2021-06-18 02:45:00",
+       "speed":5.8,
+       "courseOverGround":259.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.41274,
+       "longitude":-11.37448,
+       "timeStamp":"2021-06-18 03:00:00",
+       "speed":5.8,
+       "courseOverGround":260,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.40532,
+       "longitude":-11.40987,
+       "timeStamp":"2021-06-18 03:15:00",
+       "speed":6,
+       "courseOverGround":256.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.39699,
+       "longitude":-11.44579,
+       "timeStamp":"2021-06-18 03:30:00",
+       "speed":6.1,
+       "courseOverGround":257,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.38933,
+       "longitude":-11.48169,
+       "timeStamp":"2021-06-18 03:45:00",
+       "speed":6,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.38216,
+       "longitude":-11.51738,
+       "timeStamp":"2021-06-18 04:00:00",
+       "speed":5.9,
+       "courseOverGround":258.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.37486,
+       "longitude":-11.55285,
+       "timeStamp":"2021-06-18 04:15:00",
+       "speed":5.9,
+       "courseOverGround":258.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.36777,
+       "longitude":-11.58784,
+       "timeStamp":"2021-06-18 04:30:00",
+       "speed":5.8,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.36133,
+       "longitude":-11.623,
+       "timeStamp":"2021-06-18 04:45:00",
+       "speed":5.9,
+       "courseOverGround":261.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.3555,
+       "longitude":-11.65888,
+       "timeStamp":"2021-06-18 05:00:00",
+       "speed":5.8,
+       "courseOverGround":258.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.3482,
+       "longitude":-11.69355,
+       "timeStamp":"2021-06-18 05:15:00",
+       "speed":5.8,
+       "courseOverGround":258.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.3414,
+       "longitude":-11.72921,
+       "timeStamp":"2021-06-18 05:30:00",
+       "speed":6.2,
+       "courseOverGround":261.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.33684,
+       "longitude":-11.75413,
+       "timeStamp":"2021-06-18 05:45:00",
+       "speed":3.5,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.33295,
+       "longitude":-11.77394,
+       "timeStamp":"2021-06-18 06:00:00",
+       "speed":2.4,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.33057,
+       "longitude":-11.78825,
+       "timeStamp":"2021-06-18 06:15:00",
+       "speed":2.4,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.32873,
+       "longitude":-11.80306,
+       "timeStamp":"2021-06-18 06:30:00",
+       "speed":2.4,
+       "courseOverGround":263.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.32562,
+       "longitude":-11.81932,
+       "timeStamp":"2021-06-18 06:45:00",
+       "speed":2.8,
+       "courseOverGround":257.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.32273,
+       "longitude":-11.836,
+       "timeStamp":"2021-06-18 07:00:00",
+       "speed":2.7,
+       "courseOverGround":264.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.32469,
+       "longitude":-11.83863,
+       "timeStamp":"2021-06-18 07:15:00",
+       "speed":4.1,
+       "courseOverGround":69.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.33299,
+       "longitude":-11.81643,
+       "timeStamp":"2021-06-18 07:30:00",
+       "speed":4,
+       "courseOverGround":69.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.34115,
+       "longitude":-11.79425,
+       "timeStamp":"2021-06-18 07:45:00",
+       "speed":4,
+       "courseOverGround":69.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.34965,
+       "longitude":-11.77095,
+       "timeStamp":"2021-06-18 08:00:00",
+       "speed":4.3,
+       "courseOverGround":70,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.35597,
+       "longitude":-11.74677,
+       "timeStamp":"2021-06-18 08:15:00",
+       "speed":4.2,
+       "courseOverGround":73.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.36325,
+       "longitude":-11.72252,
+       "timeStamp":"2021-06-18 08:30:00",
+       "speed":4.2,
+       "courseOverGround":73.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.3687,
+       "longitude":-11.6994,
+       "timeStamp":"2021-06-18 08:45:00",
+       "speed":3.8,
+       "courseOverGround":77.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.37433,
+       "longitude":-11.67541,
+       "timeStamp":"2021-06-18 09:00:00",
+       "speed":4.1,
+       "courseOverGround":76.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.38023,
+       "longitude":-11.65097,
+       "timeStamp":"2021-06-18 09:15:00",
+       "speed":4.1,
+       "courseOverGround":76.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.38546,
+       "longitude":-11.62607,
+       "timeStamp":"2021-06-18 09:30:00",
+       "speed":4.2,
+       "courseOverGround":78.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.39109,
+       "longitude":-11.60233,
+       "timeStamp":"2021-06-18 09:45:00",
+       "speed":4,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.39691,
+       "longitude":-11.57901,
+       "timeStamp":"2021-06-18 10:00:00",
+       "speed":4,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.40284,
+       "longitude":-11.55622,
+       "timeStamp":"2021-06-18 10:15:00",
+       "speed":3.9,
+       "courseOverGround":75.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.40963,
+       "longitude":-11.53353,
+       "timeStamp":"2021-06-18 10:30:00",
+       "speed":4.1,
+       "courseOverGround":70,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.41704,
+       "longitude":-11.51035,
+       "timeStamp":"2021-06-18 10:45:00",
+       "speed":4.1,
+       "courseOverGround":74,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.42465,
+       "longitude":-11.4876,
+       "timeStamp":"2021-06-18 11:00:00",
+       "speed":4.1,
+       "courseOverGround":69.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.43298,
+       "longitude":-11.46439,
+       "timeStamp":"2021-06-18 11:15:00",
+       "speed":4.5,
+       "courseOverGround":71.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.44005,
+       "longitude":-11.44204,
+       "timeStamp":"2021-06-18 11:30:00",
+       "speed":3.9,
+       "courseOverGround":72.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.44409,
+       "longitude":-11.42714,
+       "timeStamp":"2021-06-18 11:45:00",
+       "speed":1.4,
+       "courseOverGround":80.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.44696,
+       "longitude":-11.41381,
+       "timeStamp":"2021-06-18 12:00:00",
+       "speed":3.7,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.45305,
+       "longitude":-11.39102,
+       "timeStamp":"2021-06-18 12:15:00",
+       "speed":4,
+       "courseOverGround":74.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.4593,
+       "longitude":-11.36711,
+       "timeStamp":"2021-06-18 12:30:00",
+       "speed":4.1,
+       "courseOverGround":75.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.46555,
+       "longitude":-11.34315,
+       "timeStamp":"2021-06-18 12:45:00",
+       "speed":4.1,
+       "courseOverGround":75.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.4718,
+       "longitude":-11.31919,
+       "timeStamp":"2021-06-18 13:00:00",
+       "speed":4.1,
+       "courseOverGround":75.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.47757,
+       "longitude":-11.29707,
+       "timeStamp":"2021-06-18 13:15:00",
+       "speed":3.9,
+       "courseOverGround":72.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.48458,
+       "longitude":-11.27495,
+       "timeStamp":"2021-06-18 13:30:00",
+       "speed":4.1,
+       "courseOverGround":69.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.49294,
+       "longitude":-11.25225,
+       "timeStamp":"2021-06-18 13:45:00",
+       "speed":4.1,
+       "courseOverGround":69.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.50126,
+       "longitude":-11.23101,
+       "timeStamp":"2021-06-18 14:00:00",
+       "speed":3.9,
+       "courseOverGround":68.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.50696,
+       "longitude":-11.21084,
+       "timeStamp":"2021-06-18 14:15:00",
+       "speed":3.5,
+       "courseOverGround":74.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.51251,
+       "longitude":-11.19069,
+       "timeStamp":"2021-06-18 14:30:00",
+       "speed":3.5,
+       "courseOverGround":74.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.51806,
+       "longitude":-11.17095,
+       "timeStamp":"2021-06-18 14:45:00",
+       "speed":3.4,
+       "courseOverGround":74.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.52361,
+       "longitude":-11.15153,
+       "timeStamp":"2021-06-18 15:00:00",
+       "speed":3.4,
+       "courseOverGround":74.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.53003,
+       "longitude":-11.13033,
+       "timeStamp":"2021-06-18 15:15:00",
+       "speed":3.8,
+       "courseOverGround":72.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.53706,
+       "longitude":-11.10794,
+       "timeStamp":"2021-06-18 15:30:00",
+       "speed":4,
+       "courseOverGround":72.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.54462,
+       "longitude":-11.08448,
+       "timeStamp":"2021-06-18 15:45:00",
+       "speed":4.5,
+       "courseOverGround":71.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.55218,
+       "longitude":-11.06103,
+       "timeStamp":"2021-06-18 16:00:00",
+       "speed":3.9,
+       "courseOverGround":72.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.55814,
+       "longitude":-11.03929,
+       "timeStamp":"2021-06-18 16:15:00",
+       "speed":3.5,
+       "courseOverGround":78.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.56318,
+       "longitude":-11.0201,
+       "timeStamp":"2021-06-18 16:30:00",
+       "speed":3.1,
+       "courseOverGround":72.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.5689,
+       "longitude":-11.00231,
+       "timeStamp":"2021-06-18 16:45:00",
+       "speed":3.1,
+       "courseOverGround":72.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.57462,
+       "longitude":-10.98452,
+       "timeStamp":"2021-06-18 17:00:00",
+       "speed":3.1,
+       "courseOverGround":72.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.57674,
+       "longitude":-10.96938,
+       "timeStamp":"2021-06-18 17:15:00",
+       "speed":2.4,
+       "courseOverGround":82.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.57875,
+       "longitude":-10.95457,
+       "timeStamp":"2021-06-18 17:30:00",
+       "speed":2.3,
+       "courseOverGround":78.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.58344,
+       "longitude":-10.93456,
+       "timeStamp":"2021-06-18 17:45:00",
+       "speed":4.2,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.59035,
+       "longitude":-10.91051,
+       "timeStamp":"2021-06-18 18:00:00",
+       "speed":4.2,
+       "courseOverGround":73.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.59749,
+       "longitude":-10.88671,
+       "timeStamp":"2021-06-18 18:15:00",
+       "speed":4.2,
+       "courseOverGround":73.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.60463,
+       "longitude":-10.86291,
+       "timeStamp":"2021-06-18 18:30:00",
+       "speed":4.2,
+       "courseOverGround":73.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.61127,
+       "longitude":-10.83943,
+       "timeStamp":"2021-06-18 18:45:00",
+       "speed":4.2,
+       "courseOverGround":70,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.61728,
+       "longitude":-10.81633,
+       "timeStamp":"2021-06-18 19:00:00",
+       "speed":2.3,
+       "courseOverGround":72.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.62129,
+       "longitude":-10.80329,
+       "timeStamp":"2021-06-18 19:15:00",
+       "speed":2.3,
+       "courseOverGround":72.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.62692,
+       "longitude":-10.78743,
+       "timeStamp":"2021-06-18 19:30:00",
+       "speed":3.5,
+       "courseOverGround":68.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.63422,
+       "longitude":-10.76867,
+       "timeStamp":"2021-06-18 19:45:00",
+       "speed":3.5,
+       "courseOverGround":68.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.63965,
+       "longitude":-10.74807,
+       "timeStamp":"2021-06-18 20:00:00",
+       "speed":3.5,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.64516,
+       "longitude":-10.72663,
+       "timeStamp":"2021-06-18 20:15:00",
+       "speed":3.9,
+       "courseOverGround":74.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.65176,
+       "longitude":-10.70335,
+       "timeStamp":"2021-06-18 20:30:00",
+       "speed":4.1,
+       "courseOverGround":73.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.65911,
+       "longitude":-10.67936,
+       "timeStamp":"2021-06-18 20:45:00",
+       "speed":4.4,
+       "courseOverGround":71.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.66659,
+       "longitude":-10.65446,
+       "timeStamp":"2021-06-18 21:00:00",
+       "speed":4.3,
+       "courseOverGround":75.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.67114,
+       "longitude":-10.63538,
+       "timeStamp":"2021-06-18 21:15:00",
+       "speed":2.1,
+       "courseOverGround":79.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.67381,
+       "longitude":-10.62168,
+       "timeStamp":"2021-06-18 21:30:00",
+       "speed":4.1,
+       "courseOverGround":73.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.68074,
+       "longitude":-10.59816,
+       "timeStamp":"2021-06-18 21:45:00",
+       "speed":4.1,
+       "courseOverGround":73.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.68648,
+       "longitude":-10.57453,
+       "timeStamp":"2021-06-18 22:00:00",
+       "speed":4,
+       "courseOverGround":76.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.69112,
+       "longitude":-10.55274,
+       "timeStamp":"2021-06-18 22:15:00",
+       "speed":3.5,
+       "courseOverGround":78.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.69591,
+       "longitude":-10.53972,
+       "timeStamp":"2021-06-18 22:30:00",
+       "speed":3.8,
+       "courseOverGround":75.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.70209,
+       "longitude":-10.51666,
+       "timeStamp":"2021-06-18 22:45:00",
+       "speed":4.3,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.70891,
+       "longitude":-10.49235,
+       "timeStamp":"2021-06-18 23:00:00",
+       "speed":4,
+       "courseOverGround":69.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.71722,
+       "longitude":-10.47002,
+       "timeStamp":"2021-06-18 23:15:00",
+       "speed":4.4,
+       "courseOverGround":71.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.72514,
+       "longitude":-10.44547,
+       "timeStamp":"2021-06-18 23:30:00",
+       "speed":4.2,
+       "courseOverGround":72.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.73266,
+       "longitude":-10.42125,
+       "timeStamp":"2021-06-18 23:45:00",
+       "speed":4.2,
+       "courseOverGround":72.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.73991,
+       "longitude":-10.39666,
+       "timeStamp":"2021-06-19 00:00:00",
+       "speed":4.3,
+       "courseOverGround":74.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.74667,
+       "longitude":-10.37164,
+       "timeStamp":"2021-06-19 00:15:00",
+       "speed":4.2,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.75292,
+       "longitude":-10.34664,
+       "timeStamp":"2021-06-19 00:30:00",
+       "speed":4.2,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.75963,
+       "longitude":-10.32397,
+       "timeStamp":"2021-06-19 00:45:00",
+       "speed":3.8,
+       "courseOverGround":72.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.76659,
+       "longitude":-10.30242,
+       "timeStamp":"2021-06-19 01:00:00",
+       "speed":3.8,
+       "courseOverGround":72.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.77359,
+       "longitude":-10.28028,
+       "timeStamp":"2021-06-19 01:15:00",
+       "speed":4.1,
+       "courseOverGround":73.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.78072,
+       "longitude":-10.2565,
+       "timeStamp":"2021-06-19 01:30:00",
+       "speed":4.1,
+       "courseOverGround":73.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.78541,
+       "longitude":-10.2317,
+       "timeStamp":"2021-06-19 01:45:00",
+       "speed":4.1,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.79153,
+       "longitude":-10.20721,
+       "timeStamp":"2021-06-19 02:00:00",
+       "speed":4.1,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.79765,
+       "longitude":-10.18272,
+       "timeStamp":"2021-06-19 02:15:00",
+       "speed":4.1,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.80409,
+       "longitude":-10.15943,
+       "timeStamp":"2021-06-19 02:30:00",
+       "speed":4,
+       "courseOverGround":74.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.81053,
+       "longitude":-10.13619,
+       "timeStamp":"2021-06-19 02:45:00",
+       "speed":4.1,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.81688,
+       "longitude":-10.11193,
+       "timeStamp":"2021-06-19 03:00:00",
+       "speed":4.2,
+       "courseOverGround":73.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.82376,
+       "longitude":-10.08822,
+       "timeStamp":"2021-06-19 03:15:00",
+       "speed":3.5,
+       "courseOverGround":76.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.82876,
+       "longitude":-10.06736,
+       "timeStamp":"2021-06-19 03:30:00",
+       "speed":3.5,
+       "courseOverGround":76.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.83394,
+       "longitude":-10.04614,
+       "timeStamp":"2021-06-19 03:45:00",
+       "speed":4.3,
+       "courseOverGround":74.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.84089,
+       "longitude":-10.02114,
+       "timeStamp":"2021-06-19 04:00:00",
+       "speed":4.3,
+       "courseOverGround":74.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.84707,
+       "longitude":-9.99839,
+       "timeStamp":"2021-06-19 04:15:00",
+       "speed":4.1,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.85311,
+       "longitude":-9.97421,
+       "timeStamp":"2021-06-19 04:30:00",
+       "speed":4.1,
+       "courseOverGround":76,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.85958,
+       "longitude":-9.95064,
+       "timeStamp":"2021-06-19 04:45:00",
+       "speed":4,
+       "courseOverGround":74,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.86737,
+       "longitude":-9.92813,
+       "timeStamp":"2021-06-19 05:00:00",
+       "speed":4,
+       "courseOverGround":69.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.87503,
+       "longitude":-9.90591,
+       "timeStamp":"2021-06-19 05:15:00",
+       "speed":3.9,
+       "courseOverGround":72.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.88265,
+       "longitude":-9.88381,
+       "timeStamp":"2021-06-19 05:30:00",
+       "speed":4.1,
+       "courseOverGround":66.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.89191,
+       "longitude":-9.8622,
+       "timeStamp":"2021-06-19 05:45:00",
+       "speed":4.1,
+       "courseOverGround":66.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.8999,
+       "longitude":-9.84691,
+       "timeStamp":"2021-06-19 06:00:00",
+       "speed":3.1,
+       "courseOverGround":68.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.90637,
+       "longitude":-9.8272,
+       "timeStamp":"2021-06-19 06:15:00",
+       "speed":3.9,
+       "courseOverGround":74.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.91405,
+       "longitude":-9.8044,
+       "timeStamp":"2021-06-19 06:30:00",
+       "speed":4.1,
+       "courseOverGround":69.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.9224,
+       "longitude":-9.78165,
+       "timeStamp":"2021-06-19 06:45:00",
+       "speed":4.1,
+       "courseOverGround":69.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.9297,
+       "longitude":-9.75888,
+       "timeStamp":"2021-06-19 07:00:00",
+       "speed":3.9,
+       "courseOverGround":74.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.938,
+       "longitude":-9.73583,
+       "timeStamp":"2021-06-19 07:15:00",
+       "speed":4.3,
+       "courseOverGround":68.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.94727,
+       "longitude":-9.71265,
+       "timeStamp":"2021-06-19 07:30:00",
+       "speed":4.3,
+       "courseOverGround":68.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.95659,
+       "longitude":-9.69112,
+       "timeStamp":"2021-06-19 07:45:00",
+       "speed":4,
+       "courseOverGround":66.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.96591,
+       "longitude":-9.66981,
+       "timeStamp":"2021-06-19 08:00:00",
+       "speed":4,
+       "courseOverGround":66.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.97524,
+       "longitude":-9.6485,
+       "timeStamp":"2021-06-19 08:15:00",
+       "speed":4,
+       "courseOverGround":66.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98457,
+       "longitude":-9.62718,
+       "timeStamp":"2021-06-19 08:30:00",
+       "speed":4,
+       "courseOverGround":66.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.99389,
+       "longitude":-9.60587,
+       "timeStamp":"2021-06-19 08:45:00",
+       "speed":4,
+       "courseOverGround":66.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.00415,
+       "longitude":-9.58326,
+       "timeStamp":"2021-06-19 09:00:00",
+       "speed":4,
+       "courseOverGround":64.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.014,
+       "longitude":-9.56244,
+       "timeStamp":"2021-06-19 09:15:00",
+       "speed":4,
+       "courseOverGround":64.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.02385,
+       "longitude":-9.54161,
+       "timeStamp":"2021-06-19 09:30:00",
+       "speed":4,
+       "courseOverGround":64.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.03369,
+       "longitude":-9.52078,
+       "timeStamp":"2021-06-19 09:45:00",
+       "speed":4,
+       "courseOverGround":64.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.04354,
+       "longitude":-9.49995,
+       "timeStamp":"2021-06-19 10:00:00",
+       "speed":4,
+       "courseOverGround":64.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.05331,
+       "longitude":-9.47814,
+       "timeStamp":"2021-06-19 10:15:00",
+       "speed":4.2,
+       "courseOverGround":66.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.06237,
+       "longitude":-9.45516,
+       "timeStamp":"2021-06-19 10:30:00",
+       "speed":4.2,
+       "courseOverGround":70.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.0707,
+       "longitude":-9.43142,
+       "timeStamp":"2021-06-19 10:45:00",
+       "speed":4.2,
+       "courseOverGround":70.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.07903,
+       "longitude":-9.40768,
+       "timeStamp":"2021-06-19 11:00:00",
+       "speed":4.2,
+       "courseOverGround":70.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.08736,
+       "longitude":-9.38393,
+       "timeStamp":"2021-06-19 11:15:00",
+       "speed":4.2,
+       "courseOverGround":70.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.09512,
+       "longitude":-9.35959,
+       "timeStamp":"2021-06-19 11:30:00",
+       "speed":4.3,
+       "courseOverGround":74.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.10224,
+       "longitude":-9.33474,
+       "timeStamp":"2021-06-19 11:45:00",
+       "speed":4,
+       "courseOverGround":73.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.10914,
+       "longitude":-9.31126,
+       "timeStamp":"2021-06-19 12:00:00",
+       "speed":4,
+       "courseOverGround":73.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.11533,
+       "longitude":-9.28709,
+       "timeStamp":"2021-06-19 12:15:00",
+       "speed":2.6,
+       "courseOverGround":75.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.1193,
+       "longitude":-9.27201,
+       "timeStamp":"2021-06-19 12:30:00",
+       "speed":2.6,
+       "courseOverGround":75.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12327,
+       "longitude":-9.25693,
+       "timeStamp":"2021-06-19 12:45:00",
+       "speed":2.6,
+       "courseOverGround":75.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12724,
+       "longitude":-9.24184,
+       "timeStamp":"2021-06-19 13:00:00",
+       "speed":2.6,
+       "courseOverGround":75.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.13121,
+       "longitude":-9.22676,
+       "timeStamp":"2021-06-19 13:15:00",
+       "speed":2.6,
+       "courseOverGround":75.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.13527,
+       "longitude":-9.21586,
+       "timeStamp":"2021-06-19 13:30:00",
+       "speed":1.8,
+       "courseOverGround":71.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.1386,
+       "longitude":-9.20573,
+       "timeStamp":"2021-06-19 13:45:00",
+       "speed":2,
+       "courseOverGround":74,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.14184,
+       "longitude":-9.19414,
+       "timeStamp":"2021-06-19 14:00:00",
+       "speed":1.7,
+       "courseOverGround":78.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.14421,
+       "longitude":-9.18374,
+       "timeStamp":"2021-06-19 14:15:00",
+       "speed":1.8,
+       "courseOverGround":73.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.14734,
+       "longitude":-9.17331,
+       "timeStamp":"2021-06-19 14:30:00",
+       "speed":1.8,
+       "courseOverGround":73.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.1505,
+       "longitude":-9.16241,
+       "timeStamp":"2021-06-19 14:45:00",
+       "speed":1.9,
+       "courseOverGround":74,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.15368,
+       "longitude":-9.1513,
+       "timeStamp":"2021-06-19 15:00:00",
+       "speed":1.9,
+       "courseOverGround":74,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.15685,
+       "longitude":-9.14018,
+       "timeStamp":"2021-06-19 15:15:00",
+       "speed":1.9,
+       "courseOverGround":74,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.16003,
+       "longitude":-9.12907,
+       "timeStamp":"2021-06-19 15:30:00",
+       "speed":1.9,
+       "courseOverGround":74,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.16299,
+       "longitude":-9.1186,
+       "timeStamp":"2021-06-19 15:45:00",
+       "speed":1.7,
+       "courseOverGround":74.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.16571,
+       "longitude":-9.1088,
+       "timeStamp":"2021-06-19 16:00:00",
+       "speed":1.7,
+       "courseOverGround":74.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.16843,
+       "longitude":-9.099,
+       "timeStamp":"2021-06-19 16:15:00",
+       "speed":1.7,
+       "courseOverGround":74.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.17226,
+       "longitude":-9.09007,
+       "timeStamp":"2021-06-19 16:30:00",
+       "speed":1.8,
+       "courseOverGround":55.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.17761,
+       "longitude":-9.08234,
+       "timeStamp":"2021-06-19 16:45:00",
+       "speed":1.8,
+       "courseOverGround":55.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.18297,
+       "longitude":-9.07461,
+       "timeStamp":"2021-06-19 17:00:00",
+       "speed":1.8,
+       "courseOverGround":55.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.18833,
+       "longitude":-9.06833,
+       "timeStamp":"2021-06-19 17:15:00",
+       "speed":0.8,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.19169,
+       "longitude":-9.06833,
+       "timeStamp":"2021-06-19 17:30:00",
+       "speed":0.9,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.19573,
+       "longitude":-9.06833,
+       "timeStamp":"2021-06-19 17:45:00",
+       "speed":1,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.19881,
+       "longitude":-9.06833,
+       "timeStamp":"2021-06-19 18:00:00",
+       "speed":0.7,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.20275,
+       "longitude":-9.06833,
+       "timeStamp":"2021-06-19 18:15:00",
+       "speed":1.5,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.20753,
+       "longitude":-9.06833,
+       "timeStamp":"2021-06-19 18:30:00",
+       "speed":1.2,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.21237,
+       "longitude":-9.06833,
+       "timeStamp":"2021-06-19 18:45:00",
+       "speed":1,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.21701,
+       "longitude":-9.06833,
+       "timeStamp":"2021-06-19 19:00:00",
+       "speed":1.1,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.22141,
+       "longitude":-9.06693,
+       "timeStamp":"2021-06-19 19:15:00",
+       "speed":2.3,
+       "courseOverGround":44.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.22642,
+       "longitude":-9.06667,
+       "timeStamp":"2021-06-19 19:30:00",
+       "speed":2,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.23206,
+       "longitude":-9.06577,
+       "timeStamp":"2021-06-19 19:45:00",
+       "speed":1.3,
+       "courseOverGround":9.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.23667,
+       "longitude":-9.065,
+       "timeStamp":"2021-06-19 20:00:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.24262,
+       "longitude":-9.06476,
+       "timeStamp":"2021-06-19 20:15:00",
+       "speed":1.4,
+       "courseOverGround":14,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.24818,
+       "longitude":-9.06337,
+       "timeStamp":"2021-06-19 20:30:00",
+       "speed":1.4,
+       "courseOverGround":14,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.25459,
+       "longitude":-9.06242,
+       "timeStamp":"2021-06-19 20:45:00",
+       "speed":1.4,
+       "courseOverGround":11.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.26091,
+       "longitude":-9.06064,
+       "timeStamp":"2021-06-19 21:00:00",
+       "speed":1.7,
+       "courseOverGround":21.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.26667,
+       "longitude":-9.05833,
+       "timeStamp":"2021-06-19 21:15:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.2731,
+       "longitude":-9.05595,
+       "timeStamp":"2021-06-19 21:30:00",
+       "speed":2.1,
+       "courseOverGround":26.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.27959,
+       "longitude":-9.05316,
+       "timeStamp":"2021-06-19 21:45:00",
+       "speed":1.5,
+       "courseOverGround":21.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.28565,
+       "longitude":-9.05012,
+       "timeStamp":"2021-06-19 22:00:00",
+       "speed":1.6,
+       "courseOverGround":33.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.2915,
+       "longitude":-9.04675,
+       "timeStamp":"2021-06-19 22:15:00",
+       "speed":1.4,
+       "courseOverGround":26.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.29686,
+       "longitude":-9.04376,
+       "timeStamp":"2021-06-19 22:30:00",
+       "speed":1.3,
+       "courseOverGround":33.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.30236,
+       "longitude":-9.04098,
+       "timeStamp":"2021-06-19 22:45:00",
+       "speed":1.2,
+       "courseOverGround":45.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.30732,
+       "longitude":-9.03777,
+       "timeStamp":"2021-06-19 23:00:00",
+       "speed":1.1,
+       "courseOverGround":40.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.31121,
+       "longitude":-9.03444,
+       "timeStamp":"2021-06-19 23:15:00",
+       "speed":1.1,
+       "courseOverGround":40.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.3151,
+       "longitude":-9.0311,
+       "timeStamp":"2021-06-19 23:30:00",
+       "speed":1.1,
+       "courseOverGround":40.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.31904,
+       "longitude":-9.02833,
+       "timeStamp":"2021-06-19 23:45:00",
+       "speed":1,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.3216,
+       "longitude":-9.02673,
+       "timeStamp":"2021-06-20 00:00:00",
+       "speed":0.6,
+       "courseOverGround":44.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.32436,
+       "longitude":-9.02487,
+       "timeStamp":"2021-06-20 00:15:00",
+       "speed":0.7,
+       "courseOverGround":33.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.32723,
+       "longitude":-9.02333,
+       "timeStamp":"2021-06-20 00:30:00",
+       "speed":0.8,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.33,
+       "longitude":-9.02333,
+       "timeStamp":"2021-06-20 00:45:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.33222,
+       "longitude":-9.02407,
+       "timeStamp":"2021-06-20 01:00:00",
+       "speed":0.6,
+       "courseOverGround":341.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.33461,
+       "longitude":-9.02487,
+       "timeStamp":"2021-06-20 01:15:00",
+       "speed":0.6,
+       "courseOverGround":341.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.33604,
+       "longitude":-9.02771,
+       "timeStamp":"2021-06-20 01:30:00",
+       "speed":0.5,
+       "courseOverGround":315.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.33799,
+       "longitude":-9.02966,
+       "timeStamp":"2021-06-20 01:45:00",
+       "speed":0.6,
+       "courseOverGround":314.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.33945,
+       "longitude":-9.03335,
+       "timeStamp":"2021-06-20 02:00:00",
+       "speed":0.7,
+       "courseOverGround":288.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34,
+       "longitude":-9.03795,
+       "timeStamp":"2021-06-20 02:15:00",
+       "speed":0.8,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34,
+       "longitude":-9.04167,
+       "timeStamp":"2021-06-20 02:30:00",
+       "speed":1.6,
+       "courseOverGround":296.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34167,
+       "longitude":-9.04827,
+       "timeStamp":"2021-06-20 02:45:00",
+       "speed":1.3,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34212,
+       "longitude":-9.05459,
+       "timeStamp":"2021-06-20 03:00:00",
+       "speed":1.2,
+       "courseOverGround":278.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34327,
+       "longitude":-9.06206,
+       "timeStamp":"2021-06-20 03:15:00",
+       "speed":1.2,
+       "courseOverGround":278.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34441,
+       "longitude":-9.06953,
+       "timeStamp":"2021-06-20 03:30:00",
+       "speed":1.2,
+       "courseOverGround":278.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34556,
+       "longitude":-9.07699,
+       "timeStamp":"2021-06-20 03:45:00",
+       "speed":1.2,
+       "courseOverGround":278.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34671,
+       "longitude":-9.08446,
+       "timeStamp":"2021-06-20 04:00:00",
+       "speed":1.2,
+       "courseOverGround":278.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34786,
+       "longitude":-9.09192,
+       "timeStamp":"2021-06-20 04:15:00",
+       "speed":1.2,
+       "courseOverGround":278.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34888,
+       "longitude":-9.09991,
+       "timeStamp":"2021-06-20 04:30:00",
+       "speed":1.3,
+       "courseOverGround":276.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34981,
+       "longitude":-9.10826,
+       "timeStamp":"2021-06-20 04:45:00",
+       "speed":1.3,
+       "courseOverGround":276.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.35165,
+       "longitude":-9.1166,
+       "timeStamp":"2021-06-20 05:00:00",
+       "speed":1.4,
+       "courseOverGround":284,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.35373,
+       "longitude":-9.12493,
+       "timeStamp":"2021-06-20 05:15:00",
+       "speed":1.4,
+       "courseOverGround":284.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.35565,
+       "longitude":-9.13324,
+       "timeStamp":"2021-06-20 05:30:00",
+       "speed":1.4,
+       "courseOverGround":281.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.35713,
+       "longitude":-9.14158,
+       "timeStamp":"2021-06-20 05:45:00",
+       "speed":1.3,
+       "courseOverGround":278.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.35832,
+       "longitude":-9.14994,
+       "timeStamp":"2021-06-20 06:00:00",
+       "speed":1.3,
+       "courseOverGround":278.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.36064,
+       "longitude":-9.15858,
+       "timeStamp":"2021-06-20 06:15:00",
+       "speed":1.8,
+       "courseOverGround":288.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.36388,
+       "longitude":-9.1683,
+       "timeStamp":"2021-06-20 06:30:00",
+       "speed":1.4,
+       "courseOverGround":288.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.36552,
+       "longitude":-9.17657,
+       "timeStamp":"2021-06-20 06:45:00",
+       "speed":1.5,
+       "courseOverGround":288.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.3683,
+       "longitude":-9.1849,
+       "timeStamp":"2021-06-20 07:00:00",
+       "speed":1.5,
+       "courseOverGround":288.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.37185,
+       "longitude":-9.19321,
+       "timeStamp":"2021-06-20 07:15:00",
+       "speed":1.6,
+       "courseOverGround":293.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.37473,
+       "longitude":-9.20085,
+       "timeStamp":"2021-06-20 07:30:00",
+       "speed":1.3,
+       "courseOverGround":288.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.37746,
+       "longitude":-9.20807,
+       "timeStamp":"2021-06-20 07:45:00",
+       "speed":1.5,
+       "courseOverGround":299.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38162,
+       "longitude":-9.21547,
+       "timeStamp":"2021-06-20 08:00:00",
+       "speed":1.5,
+       "courseOverGround":299.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38579,
+       "longitude":-9.22287,
+       "timeStamp":"2021-06-20 08:15:00",
+       "speed":1.5,
+       "courseOverGround":299.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38995,
+       "longitude":-9.23028,
+       "timeStamp":"2021-06-20 08:30:00",
+       "speed":1.5,
+       "courseOverGround":299.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.39422,
+       "longitude":-9.23612,
+       "timeStamp":"2021-06-20 08:45:00",
+       "speed":1.5,
+       "courseOverGround":308.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.39898,
+       "longitude":-9.24206,
+       "timeStamp":"2021-06-20 09:00:00",
+       "speed":1.5,
+       "courseOverGround":308.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.40364,
+       "longitude":-9.24843,
+       "timeStamp":"2021-06-20 09:15:00",
+       "speed":1.5,
+       "courseOverGround":305.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.40827,
+       "longitude":-9.25491,
+       "timeStamp":"2021-06-20 09:30:00",
+       "speed":1.5,
+       "courseOverGround":305.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.41303,
+       "longitude":-9.2597,
+       "timeStamp":"2021-06-20 09:45:00",
+       "speed":1.4,
+       "courseOverGround":315,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.4171,
+       "longitude":-9.26447,
+       "timeStamp":"2021-06-20 10:00:00",
+       "speed":1.1,
+       "courseOverGround":306.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.42078,
+       "longitude":-9.26885,
+       "timeStamp":"2021-06-20 10:15:00",
+       "speed":1.1,
+       "courseOverGround":326.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.42495,
+       "longitude":-9.27163,
+       "timeStamp":"2021-06-20 10:30:00",
+       "speed":1.1,
+       "courseOverGround":326.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.4291,
+       "longitude":-9.27577,
+       "timeStamp":"2021-06-20 10:45:00",
+       "speed":1.2,
+       "courseOverGround":315,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.43219,
+       "longitude":-9.27885,
+       "timeStamp":"2021-06-20 11:00:00",
+       "speed":0.8,
+       "courseOverGround":314.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.43496,
+       "longitude":-9.28081,
+       "timeStamp":"2021-06-20 11:15:00",
+       "speed":0.7,
+       "courseOverGround":333.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.43759,
+       "longitude":-9.28258,
+       "timeStamp":"2021-06-20 11:30:00",
+       "speed":0.7,
+       "courseOverGround":315,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.43997,
+       "longitude":-9.28497,
+       "timeStamp":"2021-06-20 11:45:00",
+       "speed":0.7,
+       "courseOverGround":315,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44235,
+       "longitude":-9.28735,
+       "timeStamp":"2021-06-20 12:00:00",
+       "speed":0.7,
+       "courseOverGround":315,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44402,
+       "longitude":-9.29005,
+       "timeStamp":"2021-06-20 12:15:00",
+       "speed":0.5,
+       "courseOverGround":291.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44519,
+       "longitude":-9.29297,
+       "timeStamp":"2021-06-20 12:30:00",
+       "speed":0.5,
+       "courseOverGround":291.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44636,
+       "longitude":-9.2959,
+       "timeStamp":"2021-06-20 12:45:00",
+       "speed":0.5,
+       "courseOverGround":291.8,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44667,
+       "longitude":-9.29706,
+       "timeStamp":"2021-06-20 13:00:00",
+       "speed":0.4,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44779,
+       "longitude":-9.30057,
+       "timeStamp":"2021-06-20 13:15:00",
+       "speed":0.8,
+       "courseOverGround":296.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44737,
+       "longitude":-9.3036,
+       "timeStamp":"2021-06-20 13:30:00",
+       "speed":0.5,
+       "courseOverGround":243.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44667,
+       "longitude":-9.30763,
+       "timeStamp":"2021-06-20 13:45:00",
+       "speed":0.5,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44641,
+       "longitude":-9.31078,
+       "timeStamp":"2021-06-20 14:00:00",
+       "speed":0.5,
+       "courseOverGround":251.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.4454,
+       "longitude":-9.31379,
+       "timeStamp":"2021-06-20 14:15:00",
+       "speed":0.5,
+       "courseOverGround":251.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44437,
+       "longitude":-9.3175,
+       "timeStamp":"2021-06-20 14:30:00",
+       "speed":0.7,
+       "courseOverGround":255.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.44333,
+       "longitude":-9.32167,
+       "timeStamp":"2021-06-20 14:45:00",
+       "speed":1.1,
+       "courseOverGround":236.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.43999,
+       "longitude":-9.32669,
+       "timeStamp":"2021-06-20 15:00:00",
+       "speed":1,
+       "courseOverGround":246.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.43756,
+       "longitude":-9.33224,
+       "timeStamp":"2021-06-20 15:15:00",
+       "speed":1,
+       "courseOverGround":246.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.43513,
+       "longitude":-9.3378,
+       "timeStamp":"2021-06-20 15:30:00",
+       "speed":1,
+       "courseOverGround":246.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.4327,
+       "longitude":-9.34335,
+       "timeStamp":"2021-06-20 15:45:00",
+       "speed":1,
+       "courseOverGround":246.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.43027,
+       "longitude":-9.34891,
+       "timeStamp":"2021-06-20 16:00:00",
+       "speed":1,
+       "courseOverGround":246.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.42785,
+       "longitude":-9.35454,
+       "timeStamp":"2021-06-20 16:15:00",
+       "speed":1.1,
+       "courseOverGround":248.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.42547,
+       "longitude":-9.36048,
+       "timeStamp":"2021-06-20 16:30:00",
+       "speed":1.1,
+       "courseOverGround":248.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.42282,
+       "longitude":-9.36804,
+       "timeStamp":"2021-06-20 16:45:00",
+       "speed":1.2,
+       "courseOverGround":249.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.42032,
+       "longitude":-9.3747,
+       "timeStamp":"2021-06-20 17:00:00",
+       "speed":1.2,
+       "courseOverGround":249.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.41748,
+       "longitude":-9.38085,
+       "timeStamp":"2021-06-20 17:15:00",
+       "speed":1.2,
+       "courseOverGround":225.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.41499,
+       "longitude":-9.38836,
+       "timeStamp":"2021-06-20 17:30:00",
+       "speed":1.6,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.41133,
+       "longitude":-9.39568,
+       "timeStamp":"2021-06-20 17:45:00",
+       "speed":1.3,
+       "courseOverGround":243.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.40833,
+       "longitude":-9.4017,
+       "timeStamp":"2021-06-20 18:00:00",
+       "speed":1.3,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.40533,
+       "longitude":-9.40935,
+       "timeStamp":"2021-06-20 18:15:00",
+       "speed":1.3,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.40244,
+       "longitude":-9.41631,
+       "timeStamp":"2021-06-20 18:30:00",
+       "speed":1.3,
+       "courseOverGround":253.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.40023,
+       "longitude":-9.42366,
+       "timeStamp":"2021-06-20 18:45:00",
+       "speed":1.3,
+       "courseOverGround":253.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.39803,
+       "longitude":-9.43101,
+       "timeStamp":"2021-06-20 19:00:00",
+       "speed":1.3,
+       "courseOverGround":253.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.39582,
+       "longitude":-9.43836,
+       "timeStamp":"2021-06-20 19:15:00",
+       "speed":1.3,
+       "courseOverGround":253.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.39362,
+       "longitude":-9.44571,
+       "timeStamp":"2021-06-20 19:30:00",
+       "speed":1.3,
+       "courseOverGround":253.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.39141,
+       "longitude":-9.45306,
+       "timeStamp":"2021-06-20 19:45:00",
+       "speed":1.3,
+       "courseOverGround":253.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38921,
+       "longitude":-9.46041,
+       "timeStamp":"2021-06-20 20:00:00",
+       "speed":1.3,
+       "courseOverGround":253.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.3875,
+       "longitude":-9.4675,
+       "timeStamp":"2021-06-20 20:15:00",
+       "speed":1.1,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38667,
+       "longitude":-9.47388,
+       "timeStamp":"2021-06-20 20:30:00",
+       "speed":0.9,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38533,
+       "longitude":-9.48035,
+       "timeStamp":"2021-06-20 20:45:00",
+       "speed":1.1,
+       "courseOverGround":255.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38444,
+       "longitude":-9.48778,
+       "timeStamp":"2021-06-20 21:00:00",
+       "speed":1.1,
+       "courseOverGround":243.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38272,
+       "longitude":-9.4931,
+       "timeStamp":"2021-06-20 21:15:00",
+       "speed":0.8,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38169,
+       "longitude":-9.49825,
+       "timeStamp":"2021-06-20 21:30:00",
+       "speed":0.8,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38167,
+       "longitude":-9.50326,
+       "timeStamp":"2021-06-20 21:45:00",
+       "speed":0.8,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38167,
+       "longitude":-9.50721,
+       "timeStamp":"2021-06-20 22:00:00",
+       "speed":0.8,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38167,
+       "longitude":-9.5122,
+       "timeStamp":"2021-06-20 22:15:00",
+       "speed":0.8,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38167,
+       "longitude":-9.5161,
+       "timeStamp":"2021-06-20 22:30:00",
+       "speed":1.2,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38194,
+       "longitude":-9.51967,
+       "timeStamp":"2021-06-20 22:45:00",
+       "speed":0.4,
+       "courseOverGround":281.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38245,
+       "longitude":-9.52224,
+       "timeStamp":"2021-06-20 23:00:00",
+       "speed":0.4,
+       "courseOverGround":281.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38297,
+       "longitude":-9.52481,
+       "timeStamp":"2021-06-20 23:15:00",
+       "speed":0.4,
+       "courseOverGround":281.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38334,
+       "longitude":-9.52719,
+       "timeStamp":"2021-06-20 23:30:00",
+       "speed":0.3,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38334,
+       "longitude":-9.52908,
+       "timeStamp":"2021-06-20 23:45:00",
+       "speed":0.3,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38334,
+       "longitude":-9.53098,
+       "timeStamp":"2021-06-21 00:00:00",
+       "speed":0.3,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.3833,
+       "longitude":-9.53174,
+       "timeStamp":"2021-06-21 00:15:00",
+       "speed":0.4,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38237,
+       "longitude":-9.5336,
+       "timeStamp":"2021-06-21 00:30:00",
+       "speed":0.4,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38149,
+       "longitude":-9.53537,
+       "timeStamp":"2021-06-21 00:45:00",
+       "speed":0.3,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.38073,
+       "longitude":-9.53688,
+       "timeStamp":"2021-06-21 01:00:00",
+       "speed":0.3,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.37995,
+       "longitude":-9.53838,
+       "timeStamp":"2021-06-21 01:15:00",
+       "speed":0.3,
+       "courseOverGround":224.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.37876,
+       "longitude":-9.53957,
+       "timeStamp":"2021-06-21 01:30:00",
+       "speed":0.3,
+       "courseOverGround":224.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.37681,
+       "longitude":-9.54153,
+       "timeStamp":"2021-06-21 01:45:00",
+       "speed":0.7,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.37443,
+       "longitude":-9.54391,
+       "timeStamp":"2021-06-21 02:00:00",
+       "speed":0.7,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.37205,
+       "longitude":-9.54629,
+       "timeStamp":"2021-06-21 02:15:00",
+       "speed":0.7,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.36933,
+       "longitude":-9.54977,
+       "timeStamp":"2021-06-21 02:30:00",
+       "speed":0.9,
+       "courseOverGround":233.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.36666,
+       "longitude":-9.55333,
+       "timeStamp":"2021-06-21 02:45:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.36295,
+       "longitude":-9.55705,
+       "timeStamp":"2021-06-21 03:00:00",
+       "speed":0.9,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.36046,
+       "longitude":-9.56075,
+       "timeStamp":"2021-06-21 03:15:00",
+       "speed":0.8,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.35617,
+       "longitude":-9.56384,
+       "timeStamp":"2021-06-21 03:30:00",
+       "speed":0.8,
+       "courseOverGround":224.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.35259,
+       "longitude":-9.56741,
+       "timeStamp":"2021-06-21 03:45:00",
+       "speed":1.2,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34841,
+       "longitude":-9.57158,
+       "timeStamp":"2021-06-21 04:00:00",
+       "speed":1.2,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34484,
+       "longitude":-9.57632,
+       "timeStamp":"2021-06-21 04:15:00",
+       "speed":1.1,
+       "courseOverGround":233.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.34058,
+       "longitude":-9.58178,
+       "timeStamp":"2021-06-21 04:30:00",
+       "speed":1.5,
+       "courseOverGround":231.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.33617,
+       "longitude":-9.58767,
+       "timeStamp":"2021-06-21 04:45:00",
+       "speed":1.1,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.33193,
+       "longitude":-9.5921,
+       "timeStamp":"2021-06-21 05:00:00",
+       "speed":1.2,
+       "courseOverGround":236.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.32823,
+       "longitude":-9.59766,
+       "timeStamp":"2021-06-21 05:15:00",
+       "speed":1.2,
+       "courseOverGround":236.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.32426,
+       "longitude":-9.60402,
+       "timeStamp":"2021-06-21 05:30:00",
+       "speed":1.5,
+       "courseOverGround":239,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.32061,
+       "longitude":-9.61045,
+       "timeStamp":"2021-06-21 05:45:00",
+       "speed":1.1,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.31596,
+       "longitude":-9.61737,
+       "timeStamp":"2021-06-21 06:00:00",
+       "speed":1.8,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.31092,
+       "longitude":-9.62322,
+       "timeStamp":"2021-06-21 06:15:00",
+       "speed":1.3,
+       "courseOverGround":233.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.30675,
+       "longitude":-9.62877,
+       "timeStamp":"2021-06-21 06:30:00",
+       "speed":1.3,
+       "courseOverGround":233.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.30269,
+       "longitude":-9.6344,
+       "timeStamp":"2021-06-21 06:45:00",
+       "speed":1.3,
+       "courseOverGround":239,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.29912,
+       "longitude":-9.64034,
+       "timeStamp":"2021-06-21 07:00:00",
+       "speed":1.3,
+       "courseOverGround":239,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.29617,
+       "longitude":-9.64653,
+       "timeStamp":"2021-06-21 07:15:00",
+       "speed":1.2,
+       "courseOverGround":246.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.29339,
+       "longitude":-9.65278,
+       "timeStamp":"2021-06-21 07:30:00",
+       "speed":1.2,
+       "courseOverGround":246.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.29009,
+       "longitude":-9.65904,
+       "timeStamp":"2021-06-21 07:45:00",
+       "speed":1.4,
+       "courseOverGround":236.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.28622,
+       "longitude":-9.66461,
+       "timeStamp":"2021-06-21 08:00:00",
+       "speed":1.3,
+       "courseOverGround":250.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.28368,
+       "longitude":-9.67186,
+       "timeStamp":"2021-06-21 08:15:00",
+       "speed":1.3,
+       "courseOverGround":250.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.28115,
+       "longitude":-9.67911,
+       "timeStamp":"2021-06-21 08:30:00",
+       "speed":1.3,
+       "courseOverGround":250.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.27861,
+       "longitude":-9.68636,
+       "timeStamp":"2021-06-21 08:45:00",
+       "speed":1.3,
+       "courseOverGround":250.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.27607,
+       "longitude":-9.69361,
+       "timeStamp":"2021-06-21 09:00:00",
+       "speed":1.3,
+       "courseOverGround":250.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.2734,
+       "longitude":-9.70067,
+       "timeStamp":"2021-06-21 09:15:00",
+       "speed":1.3,
+       "courseOverGround":248.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.27104,
+       "longitude":-9.7075,
+       "timeStamp":"2021-06-21 09:30:00",
+       "speed":1.1,
+       "courseOverGround":255.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.2694,
+       "longitude":-9.71406,
+       "timeStamp":"2021-06-21 09:45:00",
+       "speed":1.1,
+       "courseOverGround":256,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.26781,
+       "longitude":-9.72041,
+       "timeStamp":"2021-06-21 10:00:00",
+       "speed":1.1,
+       "courseOverGround":256,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.26623,
+       "longitude":-9.72675,
+       "timeStamp":"2021-06-21 10:15:00",
+       "speed":1.1,
+       "courseOverGround":256,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.26464,
+       "longitude":-9.7331,
+       "timeStamp":"2021-06-21 10:30:00",
+       "speed":1.1,
+       "courseOverGround":256,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.26309,
+       "longitude":-9.7393,
+       "timeStamp":"2021-06-21 10:45:00",
+       "speed":0.9,
+       "courseOverGround":256,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.2617,
+       "longitude":-9.74487,
+       "timeStamp":"2021-06-21 11:00:00",
+       "speed":0.9,
+       "courseOverGround":256,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.26083,
+       "longitude":-9.75005,
+       "timeStamp":"2021-06-21 11:15:00",
+       "speed":0.8,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.25997,
+       "longitude":-9.75522,
+       "timeStamp":"2021-06-21 11:30:00",
+       "speed":0.8,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.2591,
+       "longitude":-9.76039,
+       "timeStamp":"2021-06-21 11:45:00",
+       "speed":0.8,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.25824,
+       "longitude":-9.76557,
+       "timeStamp":"2021-06-21 12:00:00",
+       "speed":0.8,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.25738,
+       "longitude":-9.77074,
+       "timeStamp":"2021-06-21 12:15:00",
+       "speed":0.8,
+       "courseOverGround":260.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.25594,
+       "longitude":-9.77573,
+       "timeStamp":"2021-06-21 12:30:00",
+       "speed":1.2,
+       "courseOverGround":224.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.25408,
+       "longitude":-9.78036,
+       "timeStamp":"2021-06-21 12:45:00",
+       "speed":0.8,
+       "courseOverGround":255.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.25281,
+       "longitude":-9.78438,
+       "timeStamp":"2021-06-21 13:00:00",
+       "speed":0.5,
+       "courseOverGround":243.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.2512,
+       "longitude":-9.78724,
+       "timeStamp":"2021-06-21 13:15:00",
+       "speed":0.8,
+       "courseOverGround":230.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.24852,
+       "longitude":-9.79051,
+       "timeStamp":"2021-06-21 13:30:00",
+       "speed":0.8,
+       "courseOverGround":230.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.24584,
+       "longitude":-9.79379,
+       "timeStamp":"2021-06-21 13:45:00",
+       "speed":0.8,
+       "courseOverGround":230.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.24317,
+       "longitude":-9.79706,
+       "timeStamp":"2021-06-21 14:00:00",
+       "speed":0.8,
+       "courseOverGround":230.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.24049,
+       "longitude":-9.80033,
+       "timeStamp":"2021-06-21 14:15:00",
+       "speed":0.8,
+       "courseOverGround":230.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.23781,
+       "longitude":-9.80361,
+       "timeStamp":"2021-06-21 14:30:00",
+       "speed":0.8,
+       "courseOverGround":230.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.23427,
+       "longitude":-9.8062,
+       "timeStamp":"2021-06-21 14:45:00",
+       "speed":1.1,
+       "courseOverGround":206.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.23076,
+       "longitude":-9.81053,
+       "timeStamp":"2021-06-21 15:00:00",
+       "speed":1.1,
+       "courseOverGround":236.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.22724,
+       "longitude":-9.81442,
+       "timeStamp":"2021-06-21 15:15:00",
+       "speed":1,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.22345,
+       "longitude":-9.81822,
+       "timeStamp":"2021-06-21 15:30:00",
+       "speed":1.2,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.21928,
+       "longitude":-9.82239,
+       "timeStamp":"2021-06-21 15:45:00",
+       "speed":1.2,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.21459,
+       "longitude":-9.82708,
+       "timeStamp":"2021-06-21 16:00:00",
+       "speed":1.6,
+       "courseOverGround":224.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.2096,
+       "longitude":-9.83207,
+       "timeStamp":"2021-06-21 16:15:00",
+       "speed":1.6,
+       "courseOverGround":224.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.20535,
+       "longitude":-9.83798,
+       "timeStamp":"2021-06-21 16:30:00",
+       "speed":1.5,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.20014,
+       "longitude":-9.84319,
+       "timeStamp":"2021-06-21 16:45:00",
+       "speed":1.5,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.19595,
+       "longitude":-9.84873,
+       "timeStamp":"2021-06-21 17:00:00",
+       "speed":1.3,
+       "courseOverGround":233.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.19179,
+       "longitude":-9.85429,
+       "timeStamp":"2021-06-21 17:15:00",
+       "speed":1.3,
+       "courseOverGround":233.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.18762,
+       "longitude":-9.85965,
+       "timeStamp":"2021-06-21 17:30:00",
+       "speed":1.3,
+       "courseOverGround":231.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.18344,
+       "longitude":-9.86486,
+       "timeStamp":"2021-06-21 17:45:00",
+       "speed":1.3,
+       "courseOverGround":231.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.17828,
+       "longitude":-9.87074,
+       "timeStamp":"2021-06-21 18:00:00",
+       "speed":1.5,
+       "courseOverGround":234.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.17369,
+       "longitude":-9.87717,
+       "timeStamp":"2021-06-21 18:15:00",
+       "speed":1.5,
+       "courseOverGround":234.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.17009,
+       "longitude":-9.88394,
+       "timeStamp":"2021-06-21 18:30:00",
+       "speed":1.3,
+       "courseOverGround":248.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.16706,
+       "longitude":-9.89045,
+       "timeStamp":"2021-06-21 18:45:00",
+       "speed":1.2,
+       "courseOverGround":239,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.16365,
+       "longitude":-9.89614,
+       "timeStamp":"2021-06-21 19:00:00",
+       "speed":1.2,
+       "courseOverGround":239,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.16024,
+       "longitude":-9.90182,
+       "timeStamp":"2021-06-21 19:15:00",
+       "speed":1.2,
+       "courseOverGround":239,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.15683,
+       "longitude":-9.9075,
+       "timeStamp":"2021-06-21 19:30:00",
+       "speed":1.2,
+       "courseOverGround":239,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.15342,
+       "longitude":-9.91318,
+       "timeStamp":"2021-06-21 19:45:00",
+       "speed":1.2,
+       "courseOverGround":239,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.15172,
+       "longitude":-9.91817,
+       "timeStamp":"2021-06-21 20:00:00",
+       "speed":0.9,
+       "courseOverGround":251.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.14864,
+       "longitude":-9.92237,
+       "timeStamp":"2021-06-21 20:15:00",
+       "speed":1,
+       "courseOverGround":233.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.1459,
+       "longitude":-9.92653,
+       "timeStamp":"2021-06-21 20:30:00",
+       "speed":0.8,
+       "courseOverGround":243.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.14343,
+       "longitude":-9.9299,
+       "timeStamp":"2021-06-21 20:45:00",
+       "speed":0.8,
+       "courseOverGround":224.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.14068,
+       "longitude":-9.93265,
+       "timeStamp":"2021-06-21 21:00:00",
+       "speed":0.8,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.13885,
+       "longitude":-9.93472,
+       "timeStamp":"2021-06-21 21:15:00",
+       "speed":0.5,
+       "courseOverGround":230.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.13731,
+       "longitude":-9.93657,
+       "timeStamp":"2021-06-21 21:30:00",
+       "speed":0.5,
+       "courseOverGround":230.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.13577,
+       "longitude":-9.93841,
+       "timeStamp":"2021-06-21 21:45:00",
+       "speed":0.5,
+       "courseOverGround":230.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.13423,
+       "longitude":-9.94026,
+       "timeStamp":"2021-06-21 22:00:00",
+       "speed":0.5,
+       "courseOverGround":230.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.1327,
+       "longitude":-9.9421,
+       "timeStamp":"2021-06-21 22:15:00",
+       "speed":0.5,
+       "courseOverGround":230.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.13167,
+       "longitude":-9.9439,
+       "timeStamp":"2021-06-21 22:30:00",
+       "speed":0.3,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.13167,
+       "longitude":-9.945,
+       "timeStamp":"2021-06-21 22:45:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12979,
+       "longitude":-9.94458,
+       "timeStamp":"2021-06-21 23:00:00",
+       "speed":0.3,
+       "courseOverGround":116.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12911,
+       "longitude":-9.94322,
+       "timeStamp":"2021-06-21 23:15:00",
+       "speed":0.3,
+       "courseOverGround":116.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12843,
+       "longitude":-9.94186,
+       "timeStamp":"2021-06-21 23:30:00",
+       "speed":0.3,
+       "courseOverGround":116.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12667,
+       "longitude":-9.94059,
+       "timeStamp":"2021-06-21 23:45:00",
+       "speed":0.7,
+       "courseOverGround":90,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12493,
+       "longitude":-9.9382,
+       "timeStamp":"2021-06-22 00:00:00",
+       "speed":0.5,
+       "courseOverGround":116.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12373,
+       "longitude":-9.9358,
+       "timeStamp":"2021-06-22 00:15:00",
+       "speed":0.5,
+       "courseOverGround":116.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12269,
+       "longitude":-9.93435,
+       "timeStamp":"2021-06-22 00:30:00",
+       "speed":0.7,
+       "courseOverGround":134.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.12069,
+       "longitude":-9.93171,
+       "timeStamp":"2021-06-22 00:45:00",
+       "speed":0.6,
+       "courseOverGround":121,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.11905,
+       "longitude":-9.92897,
+       "timeStamp":"2021-06-22 01:00:00",
+       "speed":0.6,
+       "courseOverGround":121,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.1174,
+       "longitude":-9.92623,
+       "timeStamp":"2021-06-22 01:15:00",
+       "speed":0.6,
+       "courseOverGround":121,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.11513,
+       "longitude":-9.92377,
+       "timeStamp":"2021-06-22 01:30:00",
+       "speed":0.8,
+       "courseOverGround":141.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.11235,
+       "longitude":-9.92155,
+       "timeStamp":"2021-06-22 01:45:00",
+       "speed":0.8,
+       "courseOverGround":141.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.10957,
+       "longitude":-9.91933,
+       "timeStamp":"2021-06-22 02:00:00",
+       "speed":0.8,
+       "courseOverGround":141.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.10667,
+       "longitude":-9.91833,
+       "timeStamp":"2021-06-22 02:15:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.10226,
+       "longitude":-9.91723,
+       "timeStamp":"2021-06-22 02:30:00",
+       "speed":1.2,
+       "courseOverGround":166,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.09892,
+       "longitude":-9.91775,
+       "timeStamp":"2021-06-22 02:45:00",
+       "speed":0.6,
+       "courseOverGround":224.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.09537,
+       "longitude":-9.91833,
+       "timeStamp":"2021-06-22 03:00:00",
+       "speed":0.9,
+       "courseOverGround":180,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.08945,
+       "longitude":-9.91852,
+       "timeStamp":"2021-06-22 03:15:00",
+       "speed":1,
+       "courseOverGround":198.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.08533,
+       "longitude":-9.91989,
+       "timeStamp":"2021-06-22 03:30:00",
+       "speed":1,
+       "courseOverGround":198.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.0812,
+       "longitude":-9.92127,
+       "timeStamp":"2021-06-22 03:45:00",
+       "speed":1,
+       "courseOverGround":198.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.07615,
+       "longitude":-9.92295,
+       "timeStamp":"2021-06-22 04:00:00",
+       "speed":1.3,
+       "courseOverGround":198.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.07173,
+       "longitude":-9.92497,
+       "timeStamp":"2021-06-22 04:15:00",
+       "speed":1,
+       "courseOverGround":206.6,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.06601,
+       "longitude":-9.92933,
+       "timeStamp":"2021-06-22 04:30:00",
+       "speed":1.3,
+       "courseOverGround":213.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.06104,
+       "longitude":-9.93264,
+       "timeStamp":"2021-06-22 04:45:00",
+       "speed":1.3,
+       "courseOverGround":213.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.05554,
+       "longitude":-9.93779,
+       "timeStamp":"2021-06-22 05:00:00",
+       "speed":1.4,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.05073,
+       "longitude":-9.94261,
+       "timeStamp":"2021-06-22 05:15:00",
+       "speed":1.4,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.04573,
+       "longitude":-9.9476,
+       "timeStamp":"2021-06-22 05:30:00",
+       "speed":1.4,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.0408,
+       "longitude":-9.95253,
+       "timeStamp":"2021-06-22 05:45:00",
+       "speed":1.3,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.03617,
+       "longitude":-9.95716,
+       "timeStamp":"2021-06-22 06:00:00",
+       "speed":1.3,
+       "courseOverGround":225,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.03172,
+       "longitude":-9.96242,
+       "timeStamp":"2021-06-22 06:15:00",
+       "speed":1.4,
+       "courseOverGround":236.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.02756,
+       "longitude":-9.96825,
+       "timeStamp":"2021-06-22 06:30:00",
+       "speed":1.3,
+       "courseOverGround":233.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.02339,
+       "longitude":-9.97381,
+       "timeStamp":"2021-06-22 06:45:00",
+       "speed":1.3,
+       "courseOverGround":233.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.01948,
+       "longitude":-9.97911,
+       "timeStamp":"2021-06-22 07:00:00",
+       "speed":0.9,
+       "courseOverGround":236.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.01672,
+       "longitude":-9.98326,
+       "timeStamp":"2021-06-22 07:15:00",
+       "speed":0.9,
+       "courseOverGround":236.3,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.01266,
+       "longitude":-9.98923,
+       "timeStamp":"2021-06-22 07:30:00",
+       "speed":1.1,
+       "courseOverGround":233.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.0091,
+       "longitude":-9.99399,
+       "timeStamp":"2021-06-22 07:45:00",
+       "speed":1.1,
+       "courseOverGround":233.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.00552,
+       "longitude":-9.99968,
+       "timeStamp":"2021-06-22 08:00:00",
+       "speed":1.3,
+       "courseOverGround":239,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":49.0012,
+       "longitude":-10.00546,
+       "timeStamp":"2021-06-22 08:15:00",
+       "speed":1.6,
+       "courseOverGround":225.1,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.99767,
+       "longitude":-10.01086,
+       "timeStamp":"2021-06-22 08:30:00",
+       "speed":1.1,
+       "courseOverGround":240.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.99468,
+       "longitude":-10.01623,
+       "timeStamp":"2021-06-22 08:45:00",
+       "speed":1.1,
+       "courseOverGround":240.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.9917,
+       "longitude":-10.0216,
+       "timeStamp":"2021-06-22 09:00:00",
+       "speed":1.1,
+       "courseOverGround":240.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98931,
+       "longitude":-10.02754,
+       "timeStamp":"2021-06-22 09:15:00",
+       "speed":1.1,
+       "courseOverGround":248.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98772,
+       "longitude":-10.03305,
+       "timeStamp":"2021-06-22 09:30:00",
+       "speed":0.9,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98668,
+       "longitude":-10.03826,
+       "timeStamp":"2021-06-22 09:45:00",
+       "speed":0.9,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98578,
+       "longitude":-10.04277,
+       "timeStamp":"2021-06-22 10:00:00",
+       "speed":0.7,
+       "courseOverGround":258.7,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.985,
+       "longitude":-10.04739,
+       "timeStamp":"2021-06-22 10:15:00",
+       "speed":0.8,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.985,
+       "longitude":-10.05132,
+       "timeStamp":"2021-06-22 10:30:00",
+       "speed":0.4,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.985,
+       "longitude":-10.05578,
+       "timeStamp":"2021-06-22 10:45:00",
+       "speed":0.6,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.985,
+       "longitude":-10.05928,
+       "timeStamp":"2021-06-22 11:00:00",
+       "speed":0.6,
+       "courseOverGround":270,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98567,
+       "longitude":-10.06199,
+       "timeStamp":"2021-06-22 11:15:00",
+       "speed":0.4,
+       "courseOverGround":288.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.9865,
+       "longitude":-10.0645,
+       "timeStamp":"2021-06-22 11:30:00",
+       "speed":0.4,
+       "courseOverGround":288.5,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.9868,
+       "longitude":-10.06706,
+       "timeStamp":"2021-06-22 11:45:00",
+       "speed":0.3,
+       "courseOverGround":288.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98744,
+       "longitude":-10.06898,
+       "timeStamp":"2021-06-22 12:00:00",
+       "speed":0.3,
+       "courseOverGround":288.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98807,
+       "longitude":-10.0709,
+       "timeStamp":"2021-06-22 12:15:00",
+       "speed":0.3,
+       "courseOverGround":288.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98833,
+       "longitude":-10.07167,
+       "timeStamp":"2021-06-22 12:30:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98905,
+       "longitude":-10.07167,
+       "timeStamp":"2021-06-22 12:45:00",
+       "speed":0.3,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.99,
+       "longitude":-10.07167,
+       "timeStamp":"2021-06-22 13:00:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.99,
+       "longitude":-10.07167,
+       "timeStamp":"2021-06-22 13:15:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.99,
+       "longitude":-10.07056,
+       "timeStamp":"2021-06-22 13:30:00",
+       "speed":0.2,
+       "courseOverGround":90,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98902,
+       "longitude":-10.06902,
+       "timeStamp":"2021-06-22 13:45:00",
+       "speed":0.5,
+       "courseOverGround":135,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98833,
+       "longitude":-10.06833,
+       "timeStamp":"2021-06-22 14:00:00",
+       "speed":0,
+       "courseOverGround":0,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98833,
+       "longitude":-10.06633,
+       "timeStamp":"2021-06-22 14:15:00",
+       "speed":0.4,
+       "courseOverGround":90,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98815,
+       "longitude":-10.06319,
+       "timeStamp":"2021-06-22 14:30:00",
+       "speed":0.7,
+       "courseOverGround":141.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.9857,
+       "longitude":-10.06123,
+       "timeStamp":"2021-06-22 14:45:00",
+       "speed":0.7,
+       "courseOverGround":141.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.98325,
+       "longitude":-10.05927,
+       "timeStamp":"2021-06-22 15:00:00",
+       "speed":0.7,
+       "courseOverGround":141.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.9808,
+       "longitude":-10.05731,
+       "timeStamp":"2021-06-22 15:15:00",
+       "speed":0.7,
+       "courseOverGround":141.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.97776,
+       "longitude":-10.05555,
+       "timeStamp":"2021-06-22 15:30:00",
+       "speed":0.8,
+       "courseOverGround":153.4,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.97437,
+       "longitude":-10.05408,
+       "timeStamp":"2021-06-22 15:45:00",
+       "speed":0.8,
+       "courseOverGround":158.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.97095,
+       "longitude":-10.05272,
+       "timeStamp":"2021-06-22 16:00:00",
+       "speed":0.8,
+       "courseOverGround":158.2,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.96714,
+       "longitude":-10.05137,
+       "timeStamp":"2021-06-22 16:15:00",
+       "speed":1.2,
+       "courseOverGround":165.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.96208,
+       "longitude":-10.0501,
+       "timeStamp":"2021-06-22 16:30:00",
+       "speed":1.2,
+       "courseOverGround":165.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.95702,
+       "longitude":-10.04884,
+       "timeStamp":"2021-06-22 16:45:00",
+       "speed":1.2,
+       "courseOverGround":165.9,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"},
+    {
+       "latitude":48.95087,
+       "longitude":-10.04833,
+       "timeStamp":"2021-06-22 17:00:00",
+       "speed":1.7,
+       "courseOverGround":180,
+       "heading":0,
+       "turnRate":0
+    ,"vessel":"MAYFLOWER 400"}
+ ]
