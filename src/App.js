@@ -1,31 +1,29 @@
 import React from 'react';
-import './App.css';
-import Map from './Map'
+import './app.css';
+import Map from './Map';
+import Data from './Data'
+import { Connector } from 'mqtt-react-hooks';
+
+
 
 
 function App() {
 
-  const [hasSeaOverlay, setHasSeaOverlay] = React.useState();
-
-  const handleSeaOverlayClick = () => {
-    const current = hasSeaOverlay;
-    setHasSeaOverlay(!current)
-  };
-
+  const randomId =`mqttjs_ ${Math.random().toString(16).substr(2, 8)}`;
   return (
-    <div className="App">
-      <div style={{display: 'flex', justifyContent: 'center', flexDirection: 'column', alignItems: 'center', margin: '1rem 0'}}> 
-        <p style={{color: "black", width: '17%', textAlign: 'justify'}}>Time: </p>
-        <button onClick={handleSeaOverlayClick}>Toggle Sea Overlay</button>
-      </div>
-      <div style={{height: "80vh"}}>
-        <Map
-          centerPoint={[50.7614912, -1.3812069]}
-          hasSeaOverlay={hasSeaOverlay}
-        />
-
-      </div>
-    </div>
+    <Connector brokerUrl="wss://mqtt.eclipseprojects.io:443/mqtt" options={{
+      clientId: randomId,
+      rejectUnauthorized: false,
+    }}>
+       <div className="app">
+          <div style={{height: "100vh"}}>
+            <Map
+              centerPoint={[50.7120585, -1.9058966]}
+            />
+          </div>
+          <Data />
+        </div>
+    </Connector>
   );
 }
 
