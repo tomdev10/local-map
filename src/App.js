@@ -1,11 +1,8 @@
 import React from 'react';
 import './App.css';
-import Map from './Map';
-import Data from './Data';
+import Map from './Map/Map';
+import Data from './Data/Data';
 import { Connector } from 'mqtt-react-hooks';
-
-
-
 
 function App() {
   const randomId =`mqttjs_ ${Math.random().toString(16).substr(2, 8)}`;
