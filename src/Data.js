@@ -1,6 +1,6 @@
 
 import React from 'react';
-import './data.css';
+import './Data.css';
 import { useMqttState, useSubscription } from 'mqtt-react-hooks';
 import Indicator from './Indicator/Indicator';
 
