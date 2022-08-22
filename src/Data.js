@@ -2,7 +2,7 @@
 import React from 'react';
 import './Data.css';
 import { useMqttState, useSubscription } from 'mqtt-react-hooks';
-import Indicator from './Indicator/Indicator';
+import Indicator from './Indicator/Indicator.js';
 
 const Data = () =>  {
   const { connectionStatus } = useMqttState(); 

@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Map from './Map';
-import Data from './Data';
+import Map from './Map.js';
+import Data from './Data.js';
 import { Connector } from 'mqtt-react-hooks';
 
 
