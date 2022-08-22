@@ -1,14 +1,13 @@
 import React from 'react';
 import './App.css';
 import Map from './Map';
-import Data from './Data'
+import Data from './Data';
 import { Connector } from 'mqtt-react-hooks';
 
 
 
 
 function App() {
-
   const randomId =`mqttjs_ ${Math.random().toString(16).substr(2, 8)}`;
   return (
     <Connector brokerUrl="wss://mqtt.eclipseprojects.io:443/mqtt" options={{
