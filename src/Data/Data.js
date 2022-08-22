@@ -16,6 +16,12 @@ const Data = () =>  {
     'tomdev/carbon/colour'
   ]);
 
+  const dtOptions = {
+    year: 'numeric', month: 'numeric', day: 'numeric',
+    hour: 'numeric', minute: 'numeric', second: 'numeric',
+    hour12: false,
+  };
+
   return (
     <div className='data-container'>
       <h1>Toms Map</h1>
@@ -26,7 +32,7 @@ const Data = () =>  {
           {msgIntensity && msgColour && <Indicator text={msgIntensity?.message} value={msgColour?.message} />}
         </div>
       }
-      {!!msgTime?.message && <p>{`Carbon Time: ${msgTime?.message}`}</p>}
+      {!!msgTime?.message && <p>{`Carbon Time: ${new Intl.DateTimeFormat('en-GB', dtOptions).format(msgTime?.message)}`}</p>}
     
     </div>
   )
