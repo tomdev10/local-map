@@ -59,7 +59,7 @@ const Data = () =>  {
             { title: 'Wind', value: Number(carbonWind) || 0, color: '#00cc00' },
           ]}
           animate
-          label={({ dataEntry }) => dataEntry.value > 8 ? dataEntry.title : ""}
+          label={({ dataEntry }) => dataEntry.value > 8 ? `${dataEntry.title} - ${dataEntry.value}%` : ""}
           labelStyle={{
             ...defaultLabelStyle,
           }}
