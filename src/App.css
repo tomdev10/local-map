@@ -7,3 +7,8 @@
  .leaflet-container {
   height: 100%;
 } 
+
+.time {
+  font-style: italic;
+  font-size: 0.6rem;
+}

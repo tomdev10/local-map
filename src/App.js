@@ -3,6 +3,7 @@ import './App.css';
 import Map from './Map/Map';
 import Data from './Data/Data';
 import { Connector } from 'mqtt-react-hooks';
+import { DataProvider } from './DataContext';
 
 function App() {
   const randomId =`mqttjs_ ${Math.random().toString(16).substr(2, 8)}`;
@@ -11,7 +12,8 @@ function App() {
       clientId: randomId,
       rejectUnauthorized: false,
     }}>
-       <div className="app">
+      <DataProvider>
+        <div className="app">
           <div style={{height: "100vh"}}>
             <Map
               centerPoint={[50.7120585, -1.9058966]}
@@ -19,6 +21,7 @@ function App() {
           </div>
           <Data />
         </div>
+      </DataProvider>
     </Connector>
   );
 }

@@ -1,8 +1,10 @@
 
-import { MapContainer, TileLayer, useMap } from 'react-leaflet'
+import { MapContainer, TileLayer, useMap, Marker, Popup } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 import React from 'react';
+import { useData } from '../DataContext';
+
 
 L.Icon.Default.imagePath='/'
 
@@ -14,7 +16,13 @@ function ChangeView({ center }) {
 
 const zoomVal = 12;
 
+
+
 const Map = (props) =>  {
+
+  const { tideMarker, tideLatest } = useData();
+
+  
   return (
     <MapContainer center={props.centerPoint} zoom={zoomVal} scrollWheelZoom={false} >
       <TileLayer
@@ -23,6 +31,11 @@ const Map = (props) =>  {
       />
       <TileLayer
         url="https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png" />
+      {tideMarker && <Marker position={[tideMarker.lat, tideMarker.long]}>
+        <Popup>
+          Tide Height: {tideLatest}m
+        </Popup>
+      </Marker>}
       <ChangeView center={props.centerPoint} />
     </MapContainer>
   )
