@@ -21,13 +21,14 @@ const zoomVal = 12;
 
 const Map = (props) =>  {
 
-  const { tideMarker, tideLatest, tideTime, planes } = useData();
+  const { tideMarker, tideLatest, tideTime, planes, rainfallStations, rainfallData } = useData();
   
   const planeIcon = (heading) => L.divIcon({
     html: `<img src="./plane.svg" style="transform: rotate(${heading}deg)"/>`,
     iconSize: [40, 40],
   });
 
+  console.log(rainfallData);
   return (
     <MapContainer center={props.centerPoint} zoom={zoomVal} scrollWheelZoom={false} >
       <TileLayer
@@ -41,16 +42,16 @@ const Map = (props) =>  {
           Tide Height: {tideLatest}m @ {tideTime}
         </Popup>
       </Marker>}
-      {/* {planes && planes.map(plane => 
-        <Marker position={[plane.lat, plane.long]}>
+      {rainfallStations && rainfallStations.map(station => 
+        <Marker position={[station.lat, station.long]} key={station.id}>
           <Popup>
-            Plane {plane.callsign} @ {plane.altitude}m
+            {rainfallData && `Rainfall: ${rainfallData[station.id]}`}
           </Popup>
         </Marker>
-      )} */}
+      )}
 
       {planes && planes.map(plane => 
-       <ReactLeafletDriftMarker position={[plane.lat, plane.long]} duration={50} icon={planeIcon(plane.heading)}>
+       <ReactLeafletDriftMarker position={[plane.lat, plane.long]} duration={50} icon={planeIcon(plane.heading)} key={plane.callsign}>
           <Popup>
             Plane {plane.callsign} @ {plane.altitude}m
           </Popup>
