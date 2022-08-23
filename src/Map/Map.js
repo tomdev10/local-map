@@ -1,10 +1,11 @@
 
 import { MapContainer, TileLayer, useMap, Marker, Popup } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css';
+import ReactLeafletDriftMarker from "react-leaflet-drift-marker"
 import L from 'leaflet';
 import React from 'react';
 import { useData } from '../DataContext';
-
+import './Map.css'
 
 L.Icon.Default.imagePath='/'
 
@@ -22,6 +23,11 @@ const Map = (props) =>  {
 
   const { tideMarker, tideLatest, tideTime, planes } = useData();
   
+  const planeIcon = L.divIcon({
+    html: `<img src="./plane.svg"/>`,
+    iconSize: [40, 40],
+  });
+
   return (
     <MapContainer center={props.centerPoint} zoom={zoomVal} scrollWheelZoom={false} >
       <TileLayer
@@ -35,13 +41,22 @@ const Map = (props) =>  {
           Tide Height: {tideLatest}m @ {tideTime}
         </Popup>
       </Marker>}
-      {planes && planes.map(plane => 
+      {/* {planes && planes.map(plane => 
         <Marker position={[plane.lat, plane.long]}>
           <Popup>
             Plane {plane.callsign} @ {plane.altitude}m
           </Popup>
         </Marker>
-      )}
+      )} */}
+
+      {planes && planes.map(plane => 
+       <ReactLeafletDriftMarker position={[plane.lat, plane.long]} duration={50} icon={planeIcon}>
+          <Popup>
+            Plane {plane.callsign} @ {plane.altitude}m
+          </Popup>
+        </ReactLeafletDriftMarker>
+          )}
+
       <ChangeView center={props.centerPoint} />
     </MapContainer>
   )
