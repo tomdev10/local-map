@@ -28,7 +28,6 @@ const Map = (props) =>  {
     iconSize: [40, 40],
   });
 
-  console.log(rainfallData);
   return (
     <MapContainer center={props.centerPoint} zoom={zoomVal} scrollWheelZoom={false} >
       <TileLayer
@@ -45,7 +44,7 @@ const Map = (props) =>  {
       {rainfallStations && rainfallStations.map(station => 
         <Marker position={[station.lat, station.long]} key={station.id}>
           <Popup>
-            {rainfallData && `Rainfall: ${rainfallData[station.id]}`}
+            {rainfallData && `Rainfall: ${rainfallData[station.id]?.value}mm @ ${rainfallData[station.id]?.timestamp}`}
           </Popup>
         </Marker>
       )}

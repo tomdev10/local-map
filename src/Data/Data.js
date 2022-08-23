@@ -34,7 +34,7 @@ const Data = () =>  {
 
   return (
     <div className='data-container'>
-      <h1>Toms Map</h1>
+      <h1>MQTT Map</h1>
       <div className='status-container'>
         <span>{`System Status:`}</span>
         <Indicator text={connectionStatus} value={STATUS_TO_COLOUR[connectionStatus]} />
