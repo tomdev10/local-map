@@ -23,8 +23,8 @@ const Map = (props) =>  {
 
   const { tideMarker, tideLatest, tideTime, planes } = useData();
   
-  const planeIcon = L.divIcon({
-    html: `<img src="./plane.svg"/>`,
+  const planeIcon = (heading) => L.divIcon({
+    html: `<img src="./plane.svg" style="transform: rotate(${heading}deg)"/>`,
     iconSize: [40, 40],
   });
 
@@ -50,7 +50,7 @@ const Map = (props) =>  {
       )} */}
 
       {planes && planes.map(plane => 
-       <ReactLeafletDriftMarker position={[plane.lat, plane.long]} duration={50} icon={planeIcon}>
+       <ReactLeafletDriftMarker position={[plane.lat, plane.long]} duration={50} icon={planeIcon(plane.heading)}>
           <Popup>
             Plane {plane.callsign} @ {plane.altitude}m
           </Popup>
