@@ -20,8 +20,7 @@ const zoomVal = 12;
 
 const Map = (props) =>  {
 
-  const { tideMarker, tideLatest, tideTime } = useData();
-
+  const { tideMarker, tideLatest, tideTime, planes } = useData();
   
   return (
     <MapContainer center={props.centerPoint} zoom={zoomVal} scrollWheelZoom={false} >
@@ -36,6 +35,13 @@ const Map = (props) =>  {
           Tide Height: {tideLatest}m @ {tideTime}
         </Popup>
       </Marker>}
+      {planes && planes.map(plane => 
+        <Marker position={[plane.lat, plane.long]}>
+          <Popup>
+            Plane {plane.callsign} @ {plane.altitude}m
+          </Popup>
+        </Marker>
+      )}
       <ChangeView center={props.centerPoint} />
     </MapContainer>
   )
