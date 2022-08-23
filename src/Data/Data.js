@@ -35,6 +35,14 @@ const Data = () =>  {
   return (
     <div className='data-container'>
       <h1>MQTT Map</h1>
+      <p>Data Provided by:</p>
+      <ul>
+        <li>DEFRA Tidal Sensor API</li>
+        <li>DEFRA Rainfall Gauge Network</li>
+        <li>Carbon Intensity API</li>
+        <li>OpenSky Air Traffic API</li>
+        <li>OpenWeather Current Weather API</li>
+      </ul>
       <div className='status-container'>
         <span>{`System Status:`}</span>
         <Indicator text={connectionStatus} value={STATUS_TO_COLOUR[connectionStatus]} />

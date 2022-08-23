@@ -2,10 +2,11 @@
 
 .data-container {
   width: 50vw;
-  height: 100%;
+  height: 100vh;
   background-color: black;
   color: white;
   padding: 2rem;
+  overflow-y: scroll;
 } 
 
 .status-container {

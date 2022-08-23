@@ -24,6 +24,7 @@ function DataProvider({children}) {
     const [planesTime, setPlanesTime] = React.useState();
     const [rainfallStations, setRainfallStations] = React.useState();
     const [rainfallData, setRainfallData] = React.useState();
+    const [weather, setWeather] = React.useState();
 
 
     const { connectionStatus } = useMqttState(); 
@@ -57,6 +58,8 @@ function DataProvider({children}) {
         'tomdev/rainfall/43206/timestamp',
         'tomdev/rainfall/43205/timestamp',
         'tomdev/rainfall/44201/timestamp',
+        'tomdev/weather/bournemouth',
+        'tomdev/weather/poole'
     ]);
 
     React.useEffect(()=> {
@@ -74,11 +77,18 @@ function DataProvider({children}) {
             const timeFormatter = new Intl.DateTimeFormat('en-GB', dtOptions);
 
 
-            const addRainfallToArray = (newVal, id, property) => {
+            const addRainfall = (newVal, id, property) => {
                 const oldData = rainfallData;
                 const oldObject = oldData ? oldData[id] : {};
                 const toInsert = {...oldObject, [property]: newVal};
                 setRainfallData({...oldData, [id]: toInsert })
+            };
+
+            const addWeather = (newVal, id) => {
+                const oldData = weather;
+                const newTime = timeFormatter.format(newVal.timestamp);
+                const toInsert = {...newVal, timestamp: newTime };
+                setWeather({...oldData, [id]:toInsert} );
             };
 
             if (msg && topic) {
@@ -100,16 +110,18 @@ function DataProvider({children}) {
                 if (topic.includes('planes/states')) setPlanes(JSON.parse(msg));
                 if (topic.includes('planes/timestamp')) setPlanesTime(timeFormatter.format(msg));
                 if (topic.includes('rainfall/stations')) setRainfallStations(JSON.parse(msg));
-                if (topic.includes('tomdev/rainfall/E14440/value')) addRainfallToArray(msg, 'E14440', 'value')
-                if (topic.includes('tomdev/rainfall/E14430/value')) addRainfallToArray(msg, 'E14430', 'value' )
-                if (topic.includes('tomdev/rainfall/43206/value')) addRainfallToArray(msg, '43206', 'value')
-                if (topic.includes('tomdev/rainfall/43205/value')) addRainfallToArray(msg, '43205', 'value')
-                if (topic.includes('tomdev/rainfall/44201/value')) addRainfallToArray(msg, '44201', 'value')
-                if (topic.includes('tomdev/rainfall/E14440/timestamp')) addRainfallToArray(timeFormatter.format(msg), 'E14440', 'timestamp')
-                if (topic.includes('tomdev/rainfall/E14430/timestamp')) addRainfallToArray(timeFormatter.format(msg), 'E14430', 'timestamp')
-                if (topic.includes('tomdev/rainfall/43206/timestamp')) addRainfallToArray(timeFormatter.format(msg), '43206', 'timestamp')
-                if (topic.includes('tomdev/rainfall/43205/timestamp')) addRainfallToArray(timeFormatter.format(msg), '43205', 'timestamp')
-                if (topic.includes('tomdev/rainfall/44201/timestamp')) addRainfallToArray(timeFormatter.format(msg), '44201', 'timestamp')
+                if (topic.includes('tomdev/rainfall/E14440/value')) addRainfall(msg, 'E14440', 'value')
+                if (topic.includes('tomdev/rainfall/E14430/value')) addRainfall(msg, 'E14430', 'value' )
+                if (topic.includes('tomdev/rainfall/43206/value')) addRainfall(msg, '43206', 'value')
+                if (topic.includes('tomdev/rainfall/43205/value')) addRainfall(msg, '43205', 'value')
+                if (topic.includes('tomdev/rainfall/44201/value')) addRainfall(msg, '44201', 'value')
+                if (topic.includes('tomdev/rainfall/E14440/timestamp')) addRainfall(timeFormatter.format(msg), 'E14440', 'timestamp')
+                if (topic.includes('tomdev/rainfall/E14430/timestamp')) addRainfall(timeFormatter.format(msg), 'E14430', 'timestamp')
+                if (topic.includes('tomdev/rainfall/43206/timestamp')) addRainfall(timeFormatter.format(msg), '43206', 'timestamp')
+                if (topic.includes('tomdev/rainfall/43205/timestamp')) addRainfall(timeFormatter.format(msg), '43205', 'timestamp')
+                if (topic.includes('tomdev/rainfall/44201/timestamp')) addRainfall(timeFormatter.format(msg), '44201', 'timestamp')
+                if (topic.includes('weather/bournemouth')) addWeather(JSON.parse(msg), 'bournemouth');
+                if (topic.includes('weather/poole')) addWeather(JSON.parse(msg), 'poole');
             }
         }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -136,7 +148,8 @@ function DataProvider({children}) {
         planes: planes || null,
         planesTime: planesTime || null,
         rainfallStations: rainfallStations || null,
-        rainfallData: rainfallData || null
+        rainfallData: rainfallData || null,
+        weather: weather || null
     }
 
     return <DataContext.Provider value={value}>{children}</DataContext.Provider>

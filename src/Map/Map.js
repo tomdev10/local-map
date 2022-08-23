@@ -21,12 +21,15 @@ const zoomVal = 12;
 
 const Map = (props) =>  {
 
-  const { tideMarker, tideLatest, tideTime, planes, rainfallStations, rainfallData } = useData();
+  const { tideMarker, tideLatest, tideTime, planes, rainfallStations, rainfallData, weather} = useData();
   
   const planeIcon = (heading) => L.divIcon({
     html: `<img src="./plane.svg" style="transform: rotate(${heading}deg)"/>`,
     iconSize: [40, 40],
   });
+
+  console.log(weather);
+  console.log();
 
   return (
     <MapContainer center={props.centerPoint} zoom={zoomVal} scrollWheelZoom={false} >
@@ -48,7 +51,28 @@ const Map = (props) =>  {
           </Popup>
         </Marker>
       )}
-
+      {weather && Object.keys(weather).map(weatherS => {
+        const station = weather[weatherS];
+        return (
+          <Marker position={[station.lat, station.long]} key={weatherS}>
+            <Popup>
+              <p>
+                {`Weather: ${station.desc} `}
+              </p>
+              <p>
+                {`Temperature: ${station.temp} Celcius`}
+              </p>
+              <p>
+                {`Humidity: ${station.humidity}%`}
+              </p>
+              <p>
+                {`Time: ${station.timestamp}`}
+              </p>
+            </Popup>
+          </Marker>
+        )
+      }
+      )}
       {planes && planes.map(plane => 
        <ReactLeafletDriftMarker position={[plane.lat, plane.long]} duration={50} icon={planeIcon(plane.heading)} key={plane.callsign}>
           <Popup>
