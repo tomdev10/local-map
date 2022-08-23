@@ -20,6 +20,8 @@ function DataProvider({children}) {
     const [tideMarker, setTideMarker] = React.useState();
     const [tideLatest, setTideLatest] = React.useState();
     const [tideTime, setTideTime] = React.useState();
+    const [planes, setPlanes] = React.useState();
+    const [planesTime, setPlanesTime] = React.useState();
 
 
     const { connectionStatus } = useMqttState(); 
@@ -39,7 +41,9 @@ function DataProvider({children}) {
         'tomdev/carbon/wind',
         'tomdev/tide/bournemouth/E71939',
         'tomdev/tide/bournemouth/E71939/latest',
-        'tomdev/tide/bournemouth/E71939/timestamp'
+        'tomdev/tide/bournemouth/E71939/timestamp',
+        'tomdev10/planes/states',
+        'tomdev10/planes/timestamp'
     ]);
 
     React.useEffect(()=> {
@@ -55,6 +59,7 @@ function DataProvider({children}) {
             };
     
             const timeFormatter = new Intl.DateTimeFormat('en-GB', dtOptions);
+
             if (msg && topic) {
                 if (topic.includes('carbon/intensity')) setCarbonIntensity(msg);
                 if (topic.includes('carbon/timestamp')) setCarbonTime(timeFormatter.format(msg));
@@ -71,6 +76,8 @@ function DataProvider({children}) {
                 if (topic.includes('tide/bournemouth/E71939/latest')) setTideLatest(msg);
                 if (topic.includes('tide/bournemouth/E71939/timestamp')) setTideTime(timeFormatter.format(msg));
                 if (topic === 'tomdev/tide/bournemouth/E71939') setTideMarker(JSON.parse(msg));  
+                if (topic.includes('planes/states')) setPlanes(JSON.parse(msg));
+                if (topic.includes('planes/timestamp')) setPlanesTime(timeFormatter.format(msg));
             }
         }
     }, [message]);
@@ -92,7 +99,9 @@ function DataProvider({children}) {
         carbonWind: carbonWind || null,
         tideMarker: tideMarker || null,
         tideLatest: tideLatest || null,
-        tideTime: tideTime || null
+        tideTime: tideTime || null,
+        planes: planes || null,
+        planesTime: planesTime || null
     }
 
     return <DataContext.Provider value={value}>{children}</DataContext.Provider>

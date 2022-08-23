@@ -23,7 +23,9 @@ const Data = () =>  {
     carbonSolar, 
     carbonWind,
     tideLatest,
-    tideTime
+    tideTime,
+    planes,
+    planesTime
   } = useData();
 
 
@@ -71,6 +73,11 @@ const Data = () =>  {
       <div>
         {tideLatest && <span>Height at Bournemouth: {tideLatest}m</span>}
         {tideTime && <p className='time'>{`Timestamp: ${tideTime}`}</p>}
+      </div>
+      <h2>Planes</h2>
+      <div>
+        <span>Planes in Airspace: {planes ? planes.length: 0}</span>
+        {planesTime && <p className='time'>{`Timestamp: ${planesTime}`}</p>}
       </div>
     </div>
   )
