@@ -21,15 +21,18 @@ const zoomVal = 12;
 
 const Map = (props) =>  {
 
-  const { tideMarker, tideLatest, tideTime, planes, rainfallStations, rainfallData, weather} = useData();
+  const { tideMarker, tideLatest, tideTime, planes, rainfallStations, rainfallData, weather, parkstoneTrain, branksomeTrain, pooleTrain} = useData();
   
   const planeIcon = (heading) => L.divIcon({
     html: `<img src="./plane.svg" style="transform: rotate(${heading}deg)"/>`,
     iconSize: [40, 40],
   });
 
-  console.log(weather);
-  console.log();
+  const trainIcon = () => L.divIcon({
+    html: `<img src="./train.svg"/>`,
+    iconSize: [20, 20],
+  });
+
 
   return (
     <MapContainer center={props.centerPoint} zoom={zoomVal} scrollWheelZoom={false} >
@@ -80,7 +83,22 @@ const Map = (props) =>  {
           </Popup>
         </ReactLeafletDriftMarker>
           )}
-
+      {parkstoneTrain && <ReactLeafletDriftMarker position={[50.7230093,-1.950156]} duration={50} icon={trainIcon()}>
+        <Popup>
+          Train at Parkstone Station
+        </Popup>
+      </ReactLeafletDriftMarker>
+        }
+      {branksomeTrain && <Marker position={[50.7270509,-1.9218713]}>
+        <Popup>
+          Train at Branksome Station
+        </Popup>
+      </Marker>}
+      {pooleTrain && <Marker position={[50.719481,-1.9854886]}>
+        <Popup>
+          Train at Poole Station
+        </Popup>
+      </Marker>}
       <ChangeView center={props.centerPoint} />
     </MapContainer>
   )

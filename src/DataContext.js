@@ -25,6 +25,9 @@ function DataProvider({children}) {
     const [rainfallStations, setRainfallStations] = React.useState();
     const [rainfallData, setRainfallData] = React.useState();
     const [weather, setWeather] = React.useState();
+    const [parkstoneTrain, setParkstoneTrain] = React.useState();
+    const [branksomeTrain, setBranksomeTrain] = React.useState();
+    const [pooleTrain, setPooleTrain] = React.useState();
 
 
     const { connectionStatus } = useMqttState(); 
@@ -59,7 +62,10 @@ function DataProvider({children}) {
         'tomdev/rainfall/43205/timestamp',
         'tomdev/rainfall/44201/timestamp',
         'tomdev/weather/bournemouth',
-        'tomdev/weather/poole'
+        'tomdev/weather/poole',
+        `tomdev/trains/pks/train`,
+        `tomdev/trains/bsm/train`,
+        `tomdev/trains/poo/train`
     ]);
 
     React.useEffect(()=> {
@@ -122,6 +128,9 @@ function DataProvider({children}) {
                 if (topic.includes('tomdev/rainfall/44201/timestamp')) addRainfall(timeFormatter.format(msg), '44201', 'timestamp')
                 if (topic.includes('weather/bournemouth')) addWeather(JSON.parse(msg), 'bournemouth');
                 if (topic.includes('weather/poole')) addWeather(JSON.parse(msg), 'poole');
+                if (topic.includes('trains/poo/train')) setPooleTrain(msg === 'true');
+                if (topic.includes('trains/pks/train')) setParkstoneTrain(msg === 'true');
+                if (topic.includes('trains/bsm/train')) setBranksomeTrain(msg === 'true');
             }
         }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -149,7 +158,10 @@ function DataProvider({children}) {
         planesTime: planesTime || null,
         rainfallStations: rainfallStations || null,
         rainfallData: rainfallData || null,
-        weather: weather || null
+        weather: weather || null,
+        parkstoneTrain: parkstoneTrain || null,
+        pooleTrain: pooleTrain || null,
+        branksomeTrain: branksomeTrain || null
     }
 
     return <DataContext.Provider value={value}>{children}</DataContext.Provider>

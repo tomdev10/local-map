@@ -42,6 +42,7 @@ const Data = () =>  {
         <li>Carbon Intensity API</li>
         <li>OpenSky Air Traffic API</li>
         <li>OpenWeather Current Weather API</li>
+        <li>Realtime Trains API</li>
       </ul>
       <div className='status-container'>
         <span>{`System Status:`}</span>
