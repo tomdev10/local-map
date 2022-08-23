@@ -20,7 +20,7 @@ const zoomVal = 12;
 
 const Map = (props) =>  {
 
-  const { tideMarker, tideLatest } = useData();
+  const { tideMarker, tideLatest, tideTime } = useData();
 
   
   return (
@@ -33,7 +33,7 @@ const Map = (props) =>  {
         url="https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png" />
       {tideMarker && <Marker position={[tideMarker.lat, tideMarker.long]}>
         <Popup>
-          Tide Height: {tideLatest}m
+          Tide Height: {tideLatest}m @ {tideTime}
         </Popup>
       </Marker>}
       <ChangeView center={props.centerPoint} />

@@ -19,6 +19,7 @@ function DataProvider({children}) {
     const [carbonWind, setCarbonWind] = React.useState();
     const [tideMarker, setTideMarker] = React.useState();
     const [tideLatest, setTideLatest] = React.useState();
+    const [tideTime, setTideTime] = React.useState();
 
 
     const { connectionStatus } = useMqttState(); 
@@ -37,20 +38,23 @@ function DataProvider({children}) {
         'tomdev/carbon/solar',
         'tomdev/carbon/wind',
         'tomdev/tide/bournemouth/E71939',
-        'tomdev/tide/bournemouth/E71939/latest'
+        'tomdev/tide/bournemouth/E71939/latest',
+        'tomdev/tide/bournemouth/E71939/timestamp'
     ]);
 
     React.useEffect(()=> {
         if (message) {
             const {message:msg,  topic} = message;
 
+            console.log('topic: ', topic, ' msg: ', msg);
+            
             const dtOptions = {
                 year: 'numeric', month: 'numeric', day: 'numeric',
                 hour: 'numeric', minute: 'numeric', second: 'numeric',
                 hour12: false,
             };
     
-            const timeFormatter = new Intl.DateTimeFormat('en-GB', dtOptions)
+            const timeFormatter = new Intl.DateTimeFormat('en-GB', dtOptions);
             if (msg && topic) {
                 if (topic.includes('carbon/intensity')) setCarbonIntensity(msg);
                 if (topic.includes('carbon/timestamp')) setCarbonTime(timeFormatter.format(msg));
@@ -65,6 +69,7 @@ function DataProvider({children}) {
                 if (topic.includes('carbon/solar')) setCarbonSolar(msg);
                 if (topic.includes('carbon/wind')) setCarbonWind(msg);
                 if (topic.includes('tide/bournemouth/E71939/latest')) setTideLatest(msg);
+                if (topic.includes('tide/bournemouth/E71939/timestamp')) setTideTime(timeFormatter.format(msg));
                 if (topic === 'tomdev/tide/bournemouth/E71939') setTideMarker(JSON.parse(msg));  
             }
         }
@@ -86,7 +91,8 @@ function DataProvider({children}) {
         carbonSolar: carbonSolar || null,
         carbonWind: carbonWind || null,
         tideMarker: tideMarker || null,
-        tideLatest: tideLatest || null
+        tideLatest: tideLatest || null,
+        tideTime: tideTime || null
     }
 
     return <DataContext.Provider value={value}>{children}</DataContext.Provider>
