@@ -1,16 +1,14 @@
-
 .app {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  height: 100vh
+  height: 100vh;
 }
 
- .leaflet-container {
+.leaflet-container {
   height: 100%;
-} 
+}
 
 .time {
   font-style: italic;
   font-size: 0.6rem;
 }
-
