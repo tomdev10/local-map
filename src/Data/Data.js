@@ -26,9 +26,7 @@ const Data = () => {
     carbonOther,
     carbonHydro,
     carbonSolar,
-    carbonWind,
-    planes,
-    planesTime,
+    carbonWind
   } = useData();
 
   const defaultLabelStyle = {
@@ -47,6 +45,7 @@ const Data = () => {
         <li>OpenSky Air Traffic API</li>
         <li>OpenWeather Current Weather API</li>
         <li>Realtime Trains API</li>
+        <li>Myshiptracking.com</li>
       </ul>
       <div className="status-container">
         <span>{`System Status:`}</span>
@@ -55,6 +54,14 @@ const Data = () => {
           value={STATUS_TO_COLOUR[connectionStatus]}
         />
       </div>
+      <p>Key:</p>
+      <ul style={{listStyle: "none", padding: 0}}>
+        <li className="list-item-key"><img src="./circle_blue.svg" alt="blue circle"/>Tide Sensor</li>
+        <li className="list-item-key"><img src="./circle_green.svg" alt="blue circle"/>Plane Position</li>
+        <li className="list-item-key"><img src="./circle_pink.svg" alt="blue circle"/>Weather Station</li>
+        <li className="list-item-key"><img src="./circle_yellow.svg" alt="blue circle"/>Train Position</li>
+        <li className="list-item-key"><img src="./circle_purple.svg" alt="blue circle"/>Rainfall Sensor</li>
+      </ul>
       <h2>
         Carbon <span>in postcode area</span>
       </h2>
@@ -115,11 +122,6 @@ const Data = () => {
         />
       </div>
       {carbonTime && <p className="time">{`Timestamp: ${carbonTime}`}</p>}
-      <h2>Planes</h2>
-      <div>
-        <span>Planes in Airspace: {planes ? planes.length : 0}</span>
-        {planesTime && <p className="time">{`Timestamp: ${planesTime}`}</p>}
-      </div>
     </div>
   );
 };

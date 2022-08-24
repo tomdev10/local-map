@@ -12,3 +12,8 @@
   grid-gap: 1rem;
   align-items: center;
 }
+
+.list-item-key {
+  display: flex;
+  align-items: center;
+}

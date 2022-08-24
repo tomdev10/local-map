@@ -31,37 +31,44 @@ const Map = (props) => {
     hamworthyTrain,
     pokesdownTrain,
     bournemouthTrain,
-    christchurchTrain
+    christchurchTrain,
+    ships
   } = useData();
 
   const planeIcon = (heading) =>
     L.divIcon({
-      html: `<img src="./plane.svg" style="transform: rotate(${heading}deg)"/>`,
-      iconSize: [40, 40],
+      html: `<img src="./circle_green.svg" style="transform: rotate(${heading}deg)"/>`,
+      iconSize: [20, 20],
     });
 
   const trainIcon = () =>
     L.divIcon({
-      html: `<img src="./train.svg"/>`,
-      iconSize: [30, 30],
+      html: `<img src="./circle_yellow.svg"/>`,
+      iconSize: [20, 20],
+    });
+
+  const shipIcon = () =>
+    L.divIcon({
+      html: `<img src="./circle_red.svg"/>`,
+      iconSize: [20, 20],
     });
 
   const weatherIcon = () =>
     L.divIcon({
-      html: `<img src="./weather.svg"/>`,
-      iconSize: [30, 30],
+      html: `<img src="./circle_pink.svg"/>`,
+      iconSize: [20, 20],
     });
 
   const tideIcon = () =>
     L.divIcon({
-      html: `<img src="./tide.svg"/>`,
-      iconSize: [30, 30],
+      html: `<img src="./circle_blue.svg"/>`,
+      iconSize: [20, 20],
     });
 
   const rainfallIcon = () =>
     L.divIcon({
-      html: `<img src="./rainfall.svg"/>`,
-      iconSize: [30, 30],
+      html: `<img src="./circle_purple.svg"/>`,
+      iconSize: [20, 20],
     });
 
   return (
@@ -74,7 +81,20 @@ const Map = (props) => {
         attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
-      <TileLayer url="https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png" />
+      {/* <TileLayer url="https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png" /> */}
+      {ships &&
+        ships.map((ships) => (
+          <ReactLeafletDriftMarker
+            position={[ships[1], ships[2]]}
+            duration={50}
+            icon={shipIcon()}
+            key={ships[0]}
+          >
+            <Popup>
+              {ships[0]}
+            </Popup>
+          </ReactLeafletDriftMarker>
+        ))}
       {tideMarker && (
         <Marker position={[tideMarker.lat, tideMarker.long]} icon={tideIcon()}>
           <Popup>
