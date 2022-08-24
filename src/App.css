@@ -12,3 +12,17 @@
   font-style: italic;
   font-size: 0.6rem;
 }
+
+.map-outer {
+  height:100vh;
+}
+
+    @media only screen and (max-width: 600px) {
+      .app {
+        display: block;
+        height: unset;
+      }
+      .map-outer {
+        height: 300px;
+      }
+}

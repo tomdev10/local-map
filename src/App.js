@@ -17,7 +17,7 @@ function App() {
     >
       <DataProvider>
         <div className="app">
-          <div style={{ height: "100vh" }}>
+          <div className="map-outer">
             <Map centerPoint={[50.7120585, -1.9058966]} />
           </div>
           <Data />
