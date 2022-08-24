@@ -43,7 +43,25 @@ const Map = (props) => {
   const trainIcon = () =>
     L.divIcon({
       html: `<img src="./train.svg"/>`,
-      iconSize: [20, 20],
+      iconSize: [30, 30],
+    });
+
+  const weatherIcon = () =>
+    L.divIcon({
+      html: `<img src="./weather.svg"/>`,
+      iconSize: [30, 30],
+    });
+
+  const tideIcon = () =>
+    L.divIcon({
+      html: `<img src="./tide.svg"/>`,
+      iconSize: [30, 30],
+    });
+
+  const rainfallIcon = () =>
+    L.divIcon({
+      html: `<img src="./rainfall.svg"/>`,
+      iconSize: [30, 30],
     });
 
   return (
@@ -58,7 +76,7 @@ const Map = (props) => {
       />
       <TileLayer url="https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png" />
       {tideMarker && (
-        <Marker position={[tideMarker.lat, tideMarker.long]}>
+        <Marker position={[tideMarker.lat, tideMarker.long]} icon={tideIcon()}>
           <Popup>
             Tide Height: {tideLatest}m @ {tideTime}
           </Popup>
@@ -66,7 +84,7 @@ const Map = (props) => {
       )}
       {rainfallStations &&
         rainfallStations.map((station) => (
-          <Marker position={[station.lat, station.long]} key={station.id}>
+          <Marker position={[station.lat, station.long]} key={station.id} icon={rainfallIcon()}>
             <Popup>
               {rainfallData &&
                 `Rainfall: ${rainfallData[station.id]?.value}mm @ ${
@@ -79,7 +97,7 @@ const Map = (props) => {
         Object.keys(weather).map((weatherS) => {
           const station = weather[weatherS];
           return (
-            <Marker position={[station.lat, station.long]} key={weatherS}>
+            <Marker position={[station.lat, station.long]} key={weatherS} icon={weatherIcon()}>
               <Popup>
                 <p>{`Weather: ${station.desc} `}</p>
                 <p>{`Temperature: ${station.temp} Celcius`}</p>
