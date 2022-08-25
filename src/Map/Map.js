@@ -37,7 +37,7 @@ const Map = (props) => {
 
   const planeIcon = (heading) =>
     L.divIcon({
-      html: `<img src="./circle_green.svg" style="transform: rotate(${heading}deg)"/>`,
+      html: `<img src="./circle_orange.svg" style="transform: rotate(${heading}deg)"/>`,
       iconSize: [20, 20],
     });
 
@@ -47,9 +47,15 @@ const Map = (props) => {
       iconSize: [20, 20],
     });
 
-  const shipIcon = () =>
+  const shipIconDocked = () =>
     L.divIcon({
       html: `<img src="./circle_red.svg"/>`,
+      iconSize: [20, 20],
+    });
+
+  const shipIconActive = () =>
+    L.divIcon({
+      html: `<img src="./circle_green.svg"/>`,
       iconSize: [20, 20],
     });
 
@@ -83,15 +89,15 @@ const Map = (props) => {
       />
       {/* <TileLayer url="https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png" /> */}
       {ships &&
-        ships.map((ships) => (
+        ships.map((ship) => (
           <ReactLeafletDriftMarker
-            position={[ships[1], ships[2]]}
+            position={[ship[2], ship[3]]}
             duration={50}
-            icon={shipIcon()}
-            key={ships[0]}
+            icon={Number(ship[1]) <= 1 ? shipIconDocked() : shipIconActive()}
+            key={ship[0]}
           >
             <Popup>
-              {ships[0]}
+              {ship[0]}
             </Popup>
           </ReactLeafletDriftMarker>
         ))}
