@@ -32,6 +32,7 @@ function DataProvider({ children }) {
   const [pokesdownTrain, setPokesdownTrain] = React.useState();
   const [christchurchTrain, setChristchurchTrain] = React.useState();
   const [ships, setShips] = React.useState();
+  const [traffic, setTraffic] = React.useState();
 
   const { connectionStatus } = useMqttState();
 
@@ -73,7 +74,8 @@ function DataProvider({ children }) {
     `tomdev/trains/chr/train`,
     `tomdev/trains/pok/train`,
     `tomdev/trains/bmh/train`,
-    'tomdev/ships'
+    'tomdev/ships',
+    'tomdev/traffic'
   ]);
 
   React.useEffect(() => {
@@ -162,7 +164,6 @@ function DataProvider({ children }) {
           setParkstoneTrain(msg === "true");
         if (topic.includes("trains/bsm/train"))
           setBranksomeTrain(msg === "true");
-
         if (topic.includes("trains/bmh/train"))
           setBournemouthTrain(msg === "true");
         if (topic.includes("trains/pok/train"))
@@ -173,6 +174,8 @@ function DataProvider({ children }) {
           setHamworthyTrain(msg === "true");
         if (topic.includes("ships"))
           setShips(JSON.parse(msg));
+        if (topic.includes("traffic"))
+          setTraffic(JSON.parse(msg));
       }
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -207,7 +210,8 @@ function DataProvider({ children }) {
     hamworthyTrain: hamworthyTrain || null,
     christchurchTrain: christchurchTrain || null,
     pokesdownTrain: pokesdownTrain || null,
-    ships: ships || null
+    ships: ships || null, 
+    traffic: traffic || null
   };
 
   return <DataContext.Provider value={value}>{children}</DataContext.Provider>;

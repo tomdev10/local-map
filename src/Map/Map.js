@@ -1,4 +1,11 @@
-import { MapContainer, TileLayer, useMap, Marker, Popup } from "react-leaflet";
+import {
+  MapContainer,
+  TileLayer,
+  useMap,
+  Marker,
+  Popup,
+  Polyline,
+} from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import ReactLeafletDriftMarker from "react-leaflet-drift-marker";
 import L from "leaflet";
@@ -14,7 +21,7 @@ function ChangeView({ center }) {
   return null;
 }
 
-const zoomVal = 12;
+const zoomVal = 12.2;
 
 const Map = (props) => {
   const {
@@ -32,7 +39,8 @@ const Map = (props) => {
     pokesdownTrain,
     bournemouthTrain,
     christchurchTrain,
-    ships
+    ships,
+    traffic,
   } = useData();
 
   const planeIcon = (heading) =>
@@ -77,6 +85,7 @@ const Map = (props) => {
       iconSize: [20, 20],
     });
 
+  console.log("***traffic: ", tideMarker);
   return (
     <MapContainer
       center={props.centerPoint}
@@ -88,6 +97,16 @@ const Map = (props) => {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
       {/* <TileLayer url="https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png" /> */}
+      {traffic &&
+        traffic.map((incident) => incident.coords ? (
+          <Polyline
+            key={incident.id}
+            pathOptions={{ color: "red" }}
+            positions={incident.coords}
+          >
+            <Popup>{incident.description}</Popup>
+          </Polyline>
+        ) : <></>)}
       {ships &&
         ships.map((ship) => (
           <ReactLeafletDriftMarker
@@ -96,9 +115,7 @@ const Map = (props) => {
             icon={Number(ship[1]) <= 1 ? shipIconDocked() : shipIconActive()}
             key={ship[0]}
           >
-            <Popup>
-              {ship[0]}
-            </Popup>
+            <Popup><span className="capitalize">{ship[0].toLowerCase()}</span></Popup>
           </ReactLeafletDriftMarker>
         ))}
       {tideMarker && (
@@ -110,7 +127,11 @@ const Map = (props) => {
       )}
       {rainfallStations &&
         rainfallStations.map((station) => (
-          <Marker position={[station.lat, station.long]} key={station.id} icon={rainfallIcon()}>
+          <Marker
+            position={[station.lat, station.long]}
+            key={station.id}
+            icon={rainfallIcon()}
+          >
             <Popup>
               {rainfallData &&
                 `Rainfall: ${rainfallData[station.id]?.value}mm @ ${
@@ -123,7 +144,11 @@ const Map = (props) => {
         Object.keys(weather).map((weatherS) => {
           const station = weather[weatherS];
           return (
-            <Marker position={[station.lat, station.long]} key={weatherS} icon={weatherIcon()}>
+            <Marker
+              position={[station.lat, station.long]}
+              key={weatherS}
+              icon={weatherIcon()}
+            >
               <Popup>
                 <p>{`Weather: ${station.desc} `}</p>
                 <p>{`Temperature: ${station.temp} Celcius`}</p>
@@ -175,7 +200,7 @@ const Map = (props) => {
       )}
       {christchurchTrain && (
         <ReactLeafletDriftMarker
-          position={[50.7382893,-1.7867063]}
+          position={[50.7382893, -1.7867063]}
           duration={50}
           icon={trainIcon()}
         >
@@ -184,7 +209,7 @@ const Map = (props) => {
       )}
       {bournemouthTrain && (
         <ReactLeafletDriftMarker
-          position={[50.7272201,-1.868587]}
+          position={[50.7272201, -1.868587]}
           duration={50}
           icon={trainIcon()}
         >
@@ -193,7 +218,7 @@ const Map = (props) => {
       )}
       {pokesdownTrain && (
         <ReactLeafletDriftMarker
-          position={[50.7310126,-1.8272649]}
+          position={[50.7310126, -1.8272649]}
           duration={50}
           icon={trainIcon()}
         >
@@ -202,7 +227,7 @@ const Map = (props) => {
       )}
       {hamworthyTrain && (
         <ReactLeafletDriftMarker
-          position={[50.7252057,-2.0216467]}
+          position={[50.7252057, -2.0216467]}
           duration={50}
           icon={trainIcon()}
         >
