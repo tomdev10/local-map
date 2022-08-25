@@ -57,10 +57,11 @@ const Data = () => {
       <p>Key:</p>
       <ul style={{listStyle: "none", padding: 0}}>
         <li className="list-item-key"><img src="./circle_blue.svg" alt="blue circle"/>Tide Sensor</li>
-        <li className="list-item-key"><img src="./circle_green.svg" alt="blue circle"/>Plane Position</li>
-        <li className="list-item-key"><img src="./circle_pink.svg" alt="blue circle"/>Weather Station</li>
-        <li className="list-item-key"><img src="./circle_yellow.svg" alt="blue circle"/>Train Position</li>
-        <li className="list-item-key"><img src="./circle_purple.svg" alt="blue circle"/>Rainfall Sensor</li>
+        <li className="list-item-key"><img src="./circle_green.svg" alt="green circle"/>Plane Position</li>
+        <li className="list-item-key"><img src="./circle_pink.svg" alt="pink circle"/>Weather Station</li>
+        <li className="list-item-key"><img src="./circle_yellow.svg" alt="yellow circle"/>Train Position</li>
+        <li className="list-item-key"><img src="./circle_purple.svg" alt="purple circle"/>Rainfall Sensor</li>
+         <li className="list-item-key"><img src="./circle_red.svg" alt="red circle"/>Ship Position</li>
       </ul>
       <h2>
         Carbon <span>in postcode area</span>
