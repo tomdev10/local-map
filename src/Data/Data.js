@@ -64,6 +64,7 @@ const Data = () => {
         <li className="list-item-key"><img src="./circle_purple.svg" alt="purple circle"/>Rainfall Sensor</li>
         <li className="list-item-key"><img src="./circle_green.svg" alt="green circle"/>Ship Underway</li>
         <li className="list-item-key"><img src="./circle_red.svg" alt="red circle"/>Ship Docked</li>
+        <li className="list-item-key"><img src="./line_red.svg" alt="red circle"/>Traffic Incident</li>
       </ul>
       <h2>
         Carbon <span>in postcode area</span>
