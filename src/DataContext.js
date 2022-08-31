@@ -33,6 +33,7 @@ function DataProvider({ children }) {
   const [christchurchTrain, setChristchurchTrain] = React.useState();
   const [ships, setShips] = React.useState();
   const [traffic, setTraffic] = React.useState();
+  const [waterQuality, setWaterQuality] = React.useState();
 
   const { connectionStatus } = useMqttState();
 
@@ -75,7 +76,8 @@ function DataProvider({ children }) {
     `tomdev/trains/pok/train`,
     `tomdev/trains/bmh/train`,
     'tomdev/ships',
-    'tomdev/traffic'
+    'tomdev/traffic',
+    'tomdev/water'
   ]);
 
   React.useEffect(() => {
@@ -176,6 +178,8 @@ function DataProvider({ children }) {
           setShips(JSON.parse(msg));
         if (topic.includes("traffic"))
           setTraffic(JSON.parse(msg));
+        if (topic.includes("water"))
+          setWaterQuality(JSON.parse(msg));
       }
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -211,7 +215,8 @@ function DataProvider({ children }) {
     christchurchTrain: christchurchTrain || null,
     pokesdownTrain: pokesdownTrain || null,
     ships: ships || null, 
-    traffic: traffic || null
+    traffic: traffic || null,
+    waterQuality: waterQuality || null
   };
 
   return <DataContext.Provider value={value}>{children}</DataContext.Provider>;

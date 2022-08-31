@@ -47,6 +47,7 @@ const Data = () => {
         <li>Realtime Trains API</li>
         <li>Myshiptracking.com</li>
         <li>TomTom Traffic API</li>
+        <li>Wessex Water</li>
       </ul>
       <div className="status-container">
         <span>{`System Status:`}</span>
@@ -64,6 +65,7 @@ const Data = () => {
         <li className="list-item-key"><img src="./circle_purple.svg" alt="purple circle"/>Rainfall Sensor</li>
         <li className="list-item-key"><img src="./circle_green.svg" alt="green circle"/>Ship Underway</li>
         <li className="list-item-key"><img src="./circle_red.svg" alt="red circle"/>Ship Docked</li>
+        <li className="list-item-key"><img src="./circle_brown.svg" alt="red circle"/>Water Quality Sensor</li>
         <li className="list-item-key"><img src="./line_red.svg" alt="red circle"/>Traffic Incident</li>
       </ul>
       <h2>

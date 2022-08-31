@@ -41,6 +41,7 @@ const Map = (props) => {
     christchurchTrain,
     ships,
     traffic,
+    waterQuality
   } = useData();
 
   const planeIcon = (heading) =>
@@ -48,6 +49,13 @@ const Map = (props) => {
       html: `<img src="./circle_orange.svg" style="transform: rotate(${heading}deg)"/>`,
       iconSize: [20, 20],
     });
+
+  const waterQualityIcon = () =>
+    L.divIcon({
+      html: `<img src="./circle_brown.svg"/>`,
+      iconSize: [20, 20],
+    });
+
 
   const trainIcon = () =>
     L.divIcon({
@@ -117,6 +125,14 @@ const Map = (props) => {
           >
             <Popup><span className="capitalize">{ship[0].toLowerCase()}</span></Popup>
           </ReactLeafletDriftMarker>
+        ))}
+      {waterQuality &&
+        waterQuality.map(station => (
+          <Marker position={[station.lat, station.long]} icon={waterQualityIcon()} key={station.name}> 
+          <Popup>
+            {station.name} - {station.hasSpill ? 'Quality Poor' : 'Quality Good'}
+          </Popup>
+        </Marker>
         ))}
       {tideMarker && (
         <Marker position={[tideMarker.lat, tideMarker.long]} icon={tideIcon()}>
