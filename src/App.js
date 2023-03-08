@@ -1,3 +1,4 @@
+import "./FixImports";
 import React from "react";
 import "./App.css";
 import Map from "./Map/Map";
@@ -18,7 +19,7 @@ function App() {
       <DataProvider>
         <div className="app">
           <div className="map-outer">
-            <Map centerPoint={[50.6930007,-1.8846491,12]} />
+            <Map centerPoint={[50.6930007, -1.8846491, 12]} />
           </div>
           <Data />
         </div>

@@ -75,9 +75,9 @@ function DataProvider({ children }) {
     `tomdev/trains/chr/train`,
     `tomdev/trains/pok/train`,
     `tomdev/trains/bmh/train`,
-    'tomdev/ships',
-    'tomdev/traffic',
-    'tomdev/water'
+    "tomdev/ships",
+    "tomdev/traffic",
+    "tomdev/water",
   ]);
 
   React.useEffect(() => {
@@ -174,12 +174,9 @@ function DataProvider({ children }) {
           setChristchurchTrain(msg === "true");
         if (topic.includes("trains/chr/train"))
           setHamworthyTrain(msg === "true");
-        if (topic.includes("ships"))
-          setShips(JSON.parse(msg));
-        if (topic.includes("traffic"))
-          setTraffic(JSON.parse(msg));
-        if (topic.includes("water"))
-          setWaterQuality(JSON.parse(msg));
+        if (topic.includes("ships")) setShips(JSON.parse(msg));
+        if (topic.includes("traffic")) setTraffic(JSON.parse(msg));
+        if (topic.includes("water")) setWaterQuality(JSON.parse(msg));
       }
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -214,9 +211,9 @@ function DataProvider({ children }) {
     hamworthyTrain: hamworthyTrain || null,
     christchurchTrain: christchurchTrain || null,
     pokesdownTrain: pokesdownTrain || null,
-    ships: ships || null, 
+    ships: ships || null,
     traffic: traffic || null,
-    waterQuality: waterQuality || null
+    waterQuality: waterQuality || null,
   };
 
   return <DataContext.Provider value={value}>{children}</DataContext.Provider>;

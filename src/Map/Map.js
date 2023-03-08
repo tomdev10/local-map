@@ -7,7 +7,6 @@ import {
   Polyline,
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import ReactLeafletDriftMarker from "react-leaflet-drift-marker";
 import L from "leaflet";
 import React from "react";
 import { useData } from "../DataContext";
@@ -41,7 +40,7 @@ const Map = (props) => {
     christchurchTrain,
     ships,
     traffic,
-    waterQuality
+    waterQuality,
   } = useData();
 
   const planeIcon = (heading) =>
@@ -55,7 +54,6 @@ const Map = (props) => {
       html: `<img src="./circle_brown.svg"/>`,
       iconSize: [20, 20],
     });
-
 
   const trainIcon = () =>
     L.divIcon({
@@ -93,7 +91,6 @@ const Map = (props) => {
       iconSize: [20, 20],
     });
 
-  console.log("***traffic: ", tideMarker);
   return (
     <MapContainer
       center={props.centerPoint}
@@ -106,33 +103,48 @@ const Map = (props) => {
       />
       {/* <TileLayer url="https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png" /> */}
       {traffic &&
-        traffic.map((incident) => incident.coords ? (
-          <Polyline
-            key={incident.id}
-            pathOptions={{ color: "red" }}
-            positions={incident.coords}
-          >
-            <Popup>{incident.description}</Popup>
-          </Polyline>
-        ) : <></>)}
+        traffic.map((incident) =>
+          incident.coords ? (
+            <Polyline
+              key={incident.id}
+              pathOptions={{ color: "red" }}
+              positions={incident.coords}
+            >
+              <Popup>{incident.description}</Popup>
+            </Polyline>
+          ) : (
+            <></>
+          )
+        )}
       {ships &&
-        ships.map((ship) => (
-          <ReactLeafletDriftMarker
-            position={[ship[2], ship[3]]}
-            duration={50}
-            icon={Number(ship[1]) <= 1 ? shipIconDocked() : shipIconActive()}
-            key={ship[0]}
-          >
-            <Popup><span className="capitalize">{ship[0].toLowerCase()}</span></Popup>
-          </ReactLeafletDriftMarker>
-        ))}
+        ships.map(
+          (ship) =>
+            console.log(ship) || (
+              <Marker
+                position={[ship[1], ship[2]]}
+                icon={
+                  Number(ship[3]) <= 0 ? shipIconDocked() : shipIconActive()
+                }
+                key={ship[0]}
+              >
+                <Popup>
+                  <span className="capitalize">{ship[0].toLowerCase()}</span>
+                </Popup>
+              </Marker>
+            )
+        )}
       {waterQuality &&
-        waterQuality.map(station => (
-          <Marker position={[station.lat, station.long]} icon={waterQualityIcon()} key={station.name}> 
-          <Popup>
-            {station.name} - {station.hasSpill ? 'Quality Poor' : 'Quality Good'}
-          </Popup>
-        </Marker>
+        waterQuality.map((station) => (
+          <Marker
+            position={[station.lat, station.long]}
+            icon={waterQualityIcon()}
+            key={station.name}
+          >
+            <Popup>
+              {station.name} -{" "}
+              {station.hasSpill ? "Quality Poor" : "Quality Good"}
+            </Popup>
+          </Marker>
         ))}
       {tideMarker && (
         <Marker position={[tideMarker.lat, tideMarker.long]} icon={tideIcon()}>
@@ -176,79 +188,50 @@ const Map = (props) => {
         })}
       {planes &&
         planes.map((plane) => (
-          <ReactLeafletDriftMarker
+          <Marker
             position={[plane.lat, plane.long]}
-            duration={50}
             icon={planeIcon(plane.heading)}
             key={plane.callsign}
           >
             <Popup>
               Plane {plane.callsign} @ {plane.altitude}m
             </Popup>
-          </ReactLeafletDriftMarker>
+          </Marker>
         ))}
       {parkstoneTrain && (
-        <ReactLeafletDriftMarker
-          position={[50.7230093, -1.950156]}
-          duration={50}
-          icon={trainIcon()}
-        >
+        <Marker position={[50.7230093, -1.950156]} icon={trainIcon()}>
           <Popup>Train at Parkstone Station</Popup>
-        </ReactLeafletDriftMarker>
+        </Marker>
       )}
       {branksomeTrain && (
-        <ReactLeafletDriftMarker
-          position={[50.7270509, -1.9218713]}
-          duration={50}
-          icon={trainIcon()}
-        >
+        <Marker position={[50.7270509, -1.9218713]} icon={trainIcon()}>
           <Popup>Train at Branksome Station</Popup>
-        </ReactLeafletDriftMarker>
+        </Marker>
       )}
       {pooleTrain && (
-        <ReactLeafletDriftMarker
-          position={[50.719481, -1.9854886]}
-          duration={50}
-          icon={trainIcon()}
-        >
+        <Marker position={[50.719481, -1.9854886]} icon={trainIcon()}>
           <Popup>Train at Poole Station</Popup>
-        </ReactLeafletDriftMarker>
+        </Marker>
       )}
       {christchurchTrain && (
-        <ReactLeafletDriftMarker
-          position={[50.7382893, -1.7867063]}
-          duration={50}
-          icon={trainIcon()}
-        >
+        <Marker position={[50.7382893, -1.7867063]} icon={trainIcon()}>
           <Popup>Train at Christchurch Station</Popup>
-        </ReactLeafletDriftMarker>
+        </Marker>
       )}
       {bournemouthTrain && (
-        <ReactLeafletDriftMarker
-          position={[50.7272201, -1.868587]}
-          duration={50}
-          icon={trainIcon()}
-        >
+        <Marker position={[50.7272201, -1.868587]} icon={trainIcon()}>
           <Popup>Train at Bournemouth Station</Popup>
-        </ReactLeafletDriftMarker>
+        </Marker>
       )}
       {pokesdownTrain && (
-        <ReactLeafletDriftMarker
-          position={[50.7310126, -1.8272649]}
-          duration={50}
-          icon={trainIcon()}
-        >
+        <Marker position={[50.7310126, -1.8272649]} icon={trainIcon()}>
           <Popup>Train at Pokesdown Station</Popup>
-        </ReactLeafletDriftMarker>
+        </Marker>
       )}
       {hamworthyTrain && (
-        <ReactLeafletDriftMarker
-          position={[50.7252057, -2.0216467]}
-          duration={50}
-          icon={trainIcon()}
-        >
+        <Marker position={[50.7252057, -2.0216467]} icon={trainIcon()}>
           <Popup>Train at Hamworthy Station</Popup>
-        </ReactLeafletDriftMarker>
+        </Marker>
       )}
       <ChangeView center={props.centerPoint} />
     </MapContainer>
