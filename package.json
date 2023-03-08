@@ -37,5 +37,8 @@
   ],
   "devDependencies": {
     "prettier": "2.7.1"
+  },
+  "resolutions": {
+    "autoprefixer": "10.4.5"
   }
 }
